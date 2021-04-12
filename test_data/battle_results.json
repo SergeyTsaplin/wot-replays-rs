@@ -1,0 +1,5050 @@
+[
+    {
+        "arenaUniqueID": 34121798798054685,
+        "personal": {
+            "45569": {
+                "eventEventCoinList": [],
+                "vehTypeLockTime": 0,
+                "markOfMastery": 4,
+                "gold": 0,
+                "directHits": 8,
+                "creditsToDraw": 0,
+                "orderFreeXPFactor100": 0,
+                "orderXPFactor100": 0,
+                "damageAssistedRadio": 7439,
+                "stunDuration": 0.0,
+                "freeXPReplay": null,
+                "originalPremSquadCredits": 0,
+                "destructiblesHits": 0,
+                "xp/other": 0,
+                "creditsContributionIn": 0,
+                "premiumTmenXPFactor100": 150,
+                "eventCredits": 0,
+                "piggyBank": 19647,
+                "eventXPList": [],
+                "stunned": 0,
+                "achievementXP": 0,
+                "igrXPFactor10": 10,
+                "premiumCreditsFactor100": 150,
+                "originalCreditsContributionIn": 0,
+                "winAloneAgainstVehicleCount": 0,
+                "originalCreditsPenalty": 0,
+                "damagedWhileMoving": 3,
+                "kills": 1,
+                "eventTMenXP": 2139,
+                "percentFromTotalTeamDamage": 4.657348963029756,
+                "premiumPlusXPFactor100": 150,
+                "bpcoin": 0,
+                "originalTMenXP": 1426,
+                "eventBpcoinList": [],
+                "noDamageDirectHitsReceived": 0,
+                "equipmentDamageDealt": 0,
+                "premiumPlusTmenXPFactor100": 150,
+                "boosterCredits": 65489,
+                "originalGold": 0,
+                "eventFreeXPList": [],
+                "tkills": 0,
+                "winPoints": 0,
+                "shots": 10,
+                "team": 2,
+                "referral20Credits": 0,
+                "deathCount": 0,
+                "subtotalEventCoin": 0,
+                "referral20XP": 0,
+                "stunNum": 0,
+                "spotted": 7,
+                "subtotalTMenXP": 2139,
+                "killerID": 0,
+                "boosterCreditsFactor100": 50,
+                "soloFlagCapture": 0,
+                "marksOnGun": 1,
+                "premiumVehicleXPFactor100": 10,
+                "autoLoadCost": [
+                    32000,
+                    0
+                ],
+                "additionalXPFactor10": 30,
+                "eventBpcoin": 0,
+                "subtotalCrystal": 0,
+                "killedAndDamagedByAllSquadmates": 0,
+                "index": 0,
+                "rolloutsCount": 1,
+                "eventGoldFactor100List": [],
+                "creditsContributionOut": 0,
+                "directEnemyHits": 8,
+                "originalCreditsContributionOutSquad": 0,
+                "damageEventList": null,
+                "premiumPlusCreditsFactor100": 150,
+                "health": 1100,
+                "stopRespawn": false,
+                "achievements": [
+                    72
+                ],
+                "orderFreeXP": 0,
+                "eventGoldList": [],
+                "boosterTMenXPFactor100": 300,
+                "dossierPopUps": [
+                    [
+                        79,
+                        4
+                    ],
+                    [
+                        2,
+                        2139
+                    ],
+                    [
+                        529,
+                        true
+                    ],
+                    [
+                        72,
+                        10
+                    ]
+                ],
+                "tdamageDealt": 0,
+                "resourceAbsorbed": 0,
+                "credits": 196466,
+                "autoEquipCost": [
+                    0,
+                    0,
+                    0
+                ],
+                "originalXP": 1426,
+                "eventTMenXPFactor100List": [
+                    [
+                        "WGSSA-51309_q01##xp_freeXP",
+                        100
+                    ]
+                ],
+                "xpReplay": null,
+                "appliedPremiumXPFactor100": 150,
+                "goldReplay": null,
+                "damagedWhileEnemyMoving": 3,
+                "creditsPenalty": 0,
+                "damageReceived": 0,
+                "percentFromSecondBestDamage": 0.0,
+                "destructiblesDamageDealt": 0,
+                "explosionHits": 0,
+                "boosterXP": 1070,
+                "lifeTime": 404,
+                "factualFreeXP": 107,
+                "c11nProgress": {
+                    "128380": {
+                        "level": 1
+                    },
+                    "128636": {
+                        "progress": {
+                            "('a15x15', 'frags')": [
+                                1.0,
+                                49.0
+                            ]
+                        },
+                        "level": 1
+                    },
+                    "129404": {
+                        "progress": {
+                            "('a15x15', 'battlesCount')": [
+                                1.0,
+                                66.0
+                            ]
+                        },
+                        "level": 1
+                    }
+                },
+                "tmenXPReplay": null,
+                "damageRating": 71,
+                "repair": 0,
+                "originalCredits": 87318,
+                "playerRankXPFactor100": 0,
+                "damageAssistedTrack": 0,
+                "xpPenalty": 0,
+                "referral20CreditsFactor100": 0,
+                "aogasFactor10": 10,
+                "xpByTmen": [
+                    [
+                        152,
+                        17968
+                    ],
+                    [
+                        153,
+                        26311
+                    ],
+                    [
+                        154,
+                        17968
+                    ]
+                ],
+                "orderCredits": 0,
+                "sniperDamageDealt": 0,
+                "fairplayFactor10": 0,
+                "orderCreditsFactor100": 0,
+                "originalCrystal": 0,
+                "damageBlockedByArmor": 0,
+                "xp": 5562,
+                "boosterXPFactor100": 50,
+                "damageReceivedFromInvisibles": 0,
+                "refSystemXPFactor10": 10,
+                "orderTMenXP": 0,
+                "flagActions": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "originalXPPenalty": 0,
+                "orderTMenXPFactor100": 0,
+                "numRecovered": 0,
+                "appliedPremiumCreditsFactor100": 150,
+                "maxHealth": 1100,
+                "premSquadCredits": 0,
+                "autoEquipBoostersCost": [
+                    0,
+                    0,
+                    0
+                ],
+                "premSquadCreditsFactor100": 0,
+                "subtotalXP": 2139,
+                "squadXP": 0,
+                "originalCreditsContributionOut": 0,
+                "premMask": 2,
+                "originalFreeXP": 71,
+                "movingAvgDamage": 1913,
+                "xp/assist": 0,
+                "freeXP": 107,
+                "orderXP": 0,
+                "premiumVehicleXP": 214,
+                "flagCapture": 0,
+                "eventCreditsList": [],
+                "eventGold": 0,
+                "questsProgress": {
+                    "WGSSA-51309_q01": [
+                        null,
+                        {
+                            "bonusCount": 7
+                        },
+                        {
+                            "bonusCount": 8
+                        }
+                    ]
+                },
+                "bpcoinReplay": null,
+                "originalCreditsContributionInSquad": 0,
+                "originalEventCoin": 0,
+                "eventXP": 2139,
+                "factualCredits": 196466,
+                "eventCoin": 0,
+                "subtotalFreeXP": 107,
+                "crystal": 0,
+                "crystalReplay": null,
+                "originalCreditsToDrawSquad": 0,
+                "numDefended": 0,
+                "achievementFreeXP": 0,
+                "subtotalCredits": 130977,
+                "killsBeforeTeamWasDamaged": 0,
+                "playerRankXP": 0,
+                "potentialDamageReceived": 0,
+                "vehicleNumCaptured": 0,
+                "squadXPFactor100": 0,
+                "directTeamHits": 0,
+                "damageDealt": 1033,
+                "referral20XPFactor100": 0,
+                "piercingsReceived": 0,
+                "appliedPremiumTmenXPFactor100": 150,
+                "destructiblesNumDestroyed": 0,
+                "piercingEnemyHits": 6,
+                "creditsReplay": null,
+                "subtotalBpcoin": 0,
+                "piercings": 6,
+                "prevMarkOfMastery": 3,
+                "eventFreeXPFactor100List": [],
+                "serviceProviderID": 0,
+                "droppedCapturePoints": 0,
+                "eventEventCoin": 0,
+                "damaged": 3,
+                "typeCompDescr": 45569,
+                "deathReason": -1,
+                "capturePoints": 0,
+                "damageBeforeTeamWasDamaged": 0,
+                "factualXP": 3423,
+                "explosionHitsReceived": 0,
+                "details": {
+                    "(10335968, 0)": {
+                        "spotted": 0,
+                        "damageAssistedTrack": 0,
+                        "damageDealt": 0,
+                        "piercingEnemyHits": 0,
+                        "damageAssistedRadio": 148,
+                        "rickochetsReceived": 0,
+                        "stunDuration": 0.0,
+                        "piercings": 0,
+                        "damageBlockedByArmor": 0,
+                        "crits": 0,
+                        "deathReason": -1,
+                        "directEnemyHits": 0,
+                        "targetKills": 0,
+                        "fire": 0,
+                        "noDamageDirectHitsReceived": 0,
+                        "damageAssistedStun": 0,
+                        "damageReceived": 0,
+                        "damageAssistedSmoke": 0,
+                        "explosionHits": 0,
+                        "directHits": 0,
+                        "damageAssistedInspire": 0,
+                        "stunNum": 0
+                    },
+                    "(10335955, 0)": {
+                        "spotted": 1,
+                        "damageAssistedTrack": 0,
+                        "damageDealt": 370,
+                        "piercingEnemyHits": 0,
+                        "damageAssistedRadio": 0,
+                        "rickochetsReceived": 0,
+                        "stunDuration": 0.0,
+                        "piercings": 2,
+                        "damageBlockedByArmor": 0,
+                        "crits": 64,
+                        "deathReason": -1,
+                        "directEnemyHits": 0,
+                        "targetKills": 0,
+                        "fire": 0,
+                        "noDamageDirectHitsReceived": 0,
+                        "damageAssistedStun": 0,
+                        "damageReceived": 0,
+                        "damageAssistedSmoke": 0,
+                        "explosionHits": 0,
+                        "directHits": 3,
+                        "damageAssistedInspire": 0,
+                        "stunNum": 0
+                    },
+                    "(10335958, 0)": {
+                        "spotted": 0,
+                        "damageAssistedTrack": 0,
+                        "damageDealt": 0,
+                        "piercingEnemyHits": 0,
+                        "damageAssistedRadio": 773,
+                        "rickochetsReceived": 0,
+                        "stunDuration": 0.0,
+                        "piercings": 0,
+                        "damageBlockedByArmor": 0,
+                        "crits": 0,
+                        "deathReason": -1,
+                        "directEnemyHits": 0,
+                        "targetKills": 0,
+                        "fire": 0,
+                        "noDamageDirectHitsReceived": 0,
+                        "damageAssistedStun": 0,
+                        "damageReceived": 0,
+                        "damageAssistedSmoke": 0,
+                        "explosionHits": 0,
+                        "directHits": 0,
+                        "damageAssistedInspire": 0,
+                        "stunNum": 0
+                    },
+                    "(10335948, 0)": {
+                        "spotted": 1,
+                        "damageAssistedTrack": 0,
+                        "damageDealt": 0,
+                        "piercingEnemyHits": 0,
+                        "damageAssistedRadio": 451,
+                        "rickochetsReceived": 0,
+                        "stunDuration": 0.0,
+                        "piercings": 0,
+                        "damageBlockedByArmor": 0,
+                        "crits": 0,
+                        "deathReason": -1,
+                        "directEnemyHits": 0,
+                        "targetKills": 0,
+                        "fire": 0,
+                        "noDamageDirectHitsReceived": 0,
+                        "damageAssistedStun": 0,
+                        "damageReceived": 0,
+                        "damageAssistedSmoke": 0,
+                        "explosionHits": 0,
+                        "directHits": 0,
+                        "damageAssistedInspire": 0,
+                        "stunNum": 0
+                    },
+                    "(10335965, 0)": {
+                        "spotted": 0,
+                        "damageAssistedTrack": 0,
+                        "damageDealt": 493,
+                        "piercingEnemyHits": 0,
+                        "damageAssistedRadio": 0,
+                        "rickochetsReceived": 0,
+                        "stunDuration": 0.0,
+                        "piercings": 3,
+                        "damageBlockedByArmor": 0,
+                        "crits": 16,
+                        "deathReason": 0,
+                        "directEnemyHits": 0,
+                        "targetKills": 1,
+                        "fire": 0,
+                        "noDamageDirectHitsReceived": 0,
+                        "damageAssistedStun": 0,
+                        "damageReceived": 0,
+                        "damageAssistedSmoke": 0,
+                        "explosionHits": 0,
+                        "directHits": 3,
+                        "damageAssistedInspire": 0,
+                        "stunNum": 0
+                    },
+                    "(10335966, 0)": {
+                        "spotted": 1,
+                        "damageAssistedTrack": 0,
+                        "damageDealt": 0,
+                        "piercingEnemyHits": 0,
+                        "damageAssistedRadio": 618,
+                        "rickochetsReceived": 0,
+                        "stunDuration": 0.0,
+                        "piercings": 0,
+                        "damageBlockedByArmor": 0,
+                        "crits": 0,
+                        "deathReason": -1,
+                        "directEnemyHits": 0,
+                        "targetKills": 0,
+                        "fire": 0,
+                        "noDamageDirectHitsReceived": 0,
+                        "damageAssistedStun": 0,
+                        "damageReceived": 0,
+                        "damageAssistedSmoke": 0,
+                        "explosionHits": 0,
+                        "directHits": 0,
+                        "damageAssistedInspire": 0,
+                        "stunNum": 0
+                    },
+                    "(10335943, 0)": {
+                        "spotted": 1,
+                        "damageAssistedTrack": 0,
+                        "damageDealt": 0,
+                        "piercingEnemyHits": 0,
+                        "damageAssistedRadio": 530,
+                        "rickochetsReceived": 0,
+                        "stunDuration": 0.0,
+                        "piercings": 0,
+                        "damageBlockedByArmor": 0,
+                        "crits": 0,
+                        "deathReason": -1,
+                        "directEnemyHits": 0,
+                        "targetKills": 0,
+                        "fire": 0,
+                        "noDamageDirectHitsReceived": 0,
+                        "damageAssistedStun": 0,
+                        "damageReceived": 0,
+                        "damageAssistedSmoke": 0,
+                        "explosionHits": 0,
+                        "directHits": 0,
+                        "damageAssistedInspire": 0,
+                        "stunNum": 0
+                    },
+                    "(10335963, 0)": {
+                        "spotted": 1,
+                        "damageAssistedTrack": 0,
+                        "damageDealt": 0,
+                        "piercingEnemyHits": 0,
+                        "damageAssistedRadio": 1200,
+                        "rickochetsReceived": 0,
+                        "stunDuration": 0.0,
+                        "piercings": 0,
+                        "damageBlockedByArmor": 0,
+                        "crits": 0,
+                        "deathReason": -1,
+                        "directEnemyHits": 0,
+                        "targetKills": 0,
+                        "fire": 0,
+                        "noDamageDirectHitsReceived": 0,
+                        "damageAssistedStun": 0,
+                        "damageReceived": 0,
+                        "damageAssistedSmoke": 0,
+                        "explosionHits": 0,
+                        "directHits": 0,
+                        "damageAssistedInspire": 0,
+                        "stunNum": 0
+                    },
+                    "(10335952, 0)": {
+                        "spotted": 0,
+                        "damageAssistedTrack": 0,
+                        "damageDealt": 170,
+                        "piercingEnemyHits": 0,
+                        "damageAssistedRadio": 290,
+                        "rickochetsReceived": 0,
+                        "stunDuration": 0.0,
+                        "piercings": 1,
+                        "damageBlockedByArmor": 0,
+                        "crits": 16,
+                        "deathReason": -1,
+                        "directEnemyHits": 0,
+                        "targetKills": 0,
+                        "fire": 0,
+                        "noDamageDirectHitsReceived": 0,
+                        "damageAssistedStun": 0,
+                        "damageReceived": 0,
+                        "damageAssistedSmoke": 0,
+                        "explosionHits": 0,
+                        "directHits": 2,
+                        "damageAssistedInspire": 0,
+                        "stunNum": 0
+                    },
+                    "(10335941, 0)": {
+                        "spotted": 1,
+                        "damageAssistedTrack": 0,
+                        "damageDealt": 0,
+                        "piercingEnemyHits": 0,
+                        "damageAssistedRadio": 1429,
+                        "rickochetsReceived": 0,
+                        "stunDuration": 0.0,
+                        "piercings": 0,
+                        "damageBlockedByArmor": 0,
+                        "crits": 0,
+                        "deathReason": -1,
+                        "directEnemyHits": 0,
+                        "targetKills": 0,
+                        "fire": 0,
+                        "noDamageDirectHitsReceived": 0,
+                        "damageAssistedStun": 0,
+                        "damageReceived": 0,
+                        "damageAssistedSmoke": 0,
+                        "explosionHits": 0,
+                        "directHits": 0,
+                        "damageAssistedInspire": 0,
+                        "stunNum": 0
+                    },
+                    "(10335970, 0)": {
+                        "spotted": 1,
+                        "damageAssistedTrack": 0,
+                        "damageDealt": 0,
+                        "piercingEnemyHits": 0,
+                        "damageAssistedRadio": 2000,
+                        "rickochetsReceived": 0,
+                        "stunDuration": 0.0,
+                        "piercings": 0,
+                        "damageBlockedByArmor": 0,
+                        "crits": 0,
+                        "deathReason": -1,
+                        "directEnemyHits": 0,
+                        "targetKills": 0,
+                        "fire": 0,
+                        "noDamageDirectHitsReceived": 0,
+                        "damageAssistedStun": 0,
+                        "damageReceived": 0,
+                        "damageAssistedSmoke": 0,
+                        "explosionHits": 0,
+                        "directHits": 0,
+                        "damageAssistedInspire": 0,
+                        "stunNum": 0
+                    }
+                },
+                "eventXPFactor100List": [
+                    [
+                        "WGSSA-51309_q01##xp_freeXP",
+                        100
+                    ]
+                ],
+                "boosterTMenXP": 6417,
+                "achievementCredits": 0,
+                "originalCreditsToDraw": 0,
+                "isPremium": true,
+                "mileage": 1839,
+                "committedSuicide": false,
+                "xp/attack": 0,
+                "eventFreeXP": 0,
+                "avatarDamageEventList": null,
+                "subtotalGold": 0,
+                "directHitsReceived": 0,
+                "accountDBID": 118809929,
+                "eventCrystal": 0,
+                "flXPReplay": null,
+                "premiumXPFactor100": 150,
+                "eventCoinReplay": null,
+                "autoRepairCost": 0,
+                "eventCreditsFactor100List": [],
+                "isTeamKiller": false,
+                "tmenXP": 11979,
+                "eventTMenXPList": [],
+                "capturingBase": null,
+                "damageAssistedStun": 0,
+                "originalCreditsPenaltySquad": 0,
+                "boosterFreeXPFactor100": 0,
+                "damageAssistedSmoke": 0,
+                "dailyXPFactor10": 10,
+                "boosterFreeXP": 0,
+                "tdestroyedModules": 0,
+                "eventCrystalList": [],
+                "damageAssistedInspire": 0,
+                "originalBpcoin": 0,
+                "battleNum": 3717
+            },
+            "avatar": {
+                "basePointsDiff": 7,
+                "avatarDamageDealt": 0,
+                "bpcoinReplay": null,
+                "creditsReplay": null,
+                "freeXPReplay": null,
+                "sumPoints": 3290,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    0
+                ],
+                "eventBpcoin": 0,
+                "badges": [
+                    [],
+                    [
+                        65
+                    ]
+                ],
+                "activeRents": {
+                    "40": 0
+                },
+                "eventFreeXP": 0,
+                "eventCredits": 0,
+                "xpReplay": null,
+                "crystal": 0,
+                "damageEventList": null,
+                "eligibleForCrystalRewards": false,
+                "dogTags": {
+                    "upgradedComps": [],
+                    "unlockedComps": []
+                },
+                "isPrematureLeave": false,
+                "squadBonusInfo": null,
+                "winnerIfDraw": 0,
+                "freeXP": 107,
+                "avatarKills": 0,
+                "eventTMenXP": 2139,
+                "recruitsIDs": [],
+                "avatarDamageEventList": null,
+                "PM2Progress": {
+                    "312": {
+                        "current": {
+                            "blockedDamageInBattleSeries": {
+                                "state": 2,
+                                "goal": 4,
+                                "value": 0
+                            },
+                            "aliveSeries": {
+                                "state": 5,
+                                "goal": 4,
+                                "value": 4
+                            }
+                        },
+                        "wasFailed": []
+                    }
+                },
+                "hasBattlePass": true,
+                "totalDamaged": 3,
+                "goldReplay": null,
+                "eventCrystal": 0,
+                "eventGold": 0,
+                "tmenXPReplay": null,
+                "eventCoinReplay": null,
+                "questsProgress": {
+                    "WGSSA-51309_q01": [
+                        null,
+                        {
+                            "bonusCount": 7
+                        },
+                        {
+                            "bonusCount": 8
+                        }
+                    ],
+                    "regular_2_1_14_add": [
+                        null,
+                        {},
+                        {
+                            "bonusCount": 1
+                        }
+                    ],
+                    "regular_2_1_14_main": [
+                        null,
+                        {},
+                        {
+                            "bonusCount": 1
+                        }
+                    ]
+                },
+                "accountDBID": 118809929,
+                "avatarAmmo": [],
+                "fareTeamXPPosition": 1,
+                "eventXP": 2139,
+                "fortClanDBIDs": [],
+                "xp": 5562,
+                "playerRank": 0,
+                "avatarDamaged": 0,
+                "recruiterID": 0,
+                "progressiveReward": null,
+                "crystalReplay": null,
+                "rankChange": 0,
+                "team": 2,
+                "clanDBID": 521909,
+                "credits": 196466,
+                "eventEventCoin": 0,
+                "watchedBattleToTheEnd": true,
+                "flXPReplay": null
+            }
+        },
+        "vehicles": {
+            "10335941": [
+                {
+                    "spotted": 0,
+                    "vehicleNumCaptured": 0,
+                    "damageAssistedTrack": 385,
+                    "xpPenalty": 0,
+                    "directTeamHits": 0,
+                    "damageReceived": 1600,
+                    "piercingsReceived": 5,
+                    "sniperDamageDealt": 1425,
+                    "piercingEnemyHits": 5,
+                    "damageAssistedRadio": 0,
+                    "mileage": 828,
+                    "stunDuration": 0.0,
+                    "piercings": 5,
+                    "damageBlockedByArmor": 0,
+                    "xp": 295,
+                    "droppedCapturePoints": 0,
+                    "killerID": 10335950,
+                    "xp/other": 0,
+                    "index": 0,
+                    "directHitsReceived": 6,
+                    "damageReceivedFromInvisibles": 1429,
+                    "explosionHitsReceived": 1,
+                    "achievementXP": 0,
+                    "deathReason": 0,
+                    "capturePoints": 0,
+                    "numRecovered": 0,
+                    "directEnemyHits": 7,
+                    "maxHealth": 1600,
+                    "damageEventList": null,
+                    "health": 0,
+                    "stopRespawn": false,
+                    "achievementCredits": 0,
+                    "achievements": [],
+                    "xp/assist": 0,
+                    "shots": 12,
+                    "kills": 2,
+                    "deathCount": 1,
+                    "flagCapture": 0,
+                    "damaged": 4,
+                    "tdamageDealt": 0,
+                    "resourceAbsorbed": 0,
+                    "credits": 14167,
+                    "accountDBID": 185603,
+                    "lifeTime": 387,
+                    "noDamageDirectHitsReceived": 0,
+                    "numDefended": 0,
+                    "stunned": 0,
+                    "equipmentDamageDealt": 0,
+                    "isTeamKiller": false,
+                    "typeCompDescr": 32769,
+                    "soloFlagCapture": 0,
+                    "destructiblesHits": 0,
+                    "capturingBase": null,
+                    "damageAssistedStun": 0,
+                    "rolloutsCount": 1,
+                    "tkills": 0,
+                    "potentialDamageReceived": 1760,
+                    "damageDealt": 1425,
+                    "destructiblesNumDestroyed": 0,
+                    "damageAssistedSmoke": 0,
+                    "destructiblesDamageDealt": 0,
+                    "flagActions": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "winPoints": 0,
+                    "explosionHits": 0,
+                    "team": 1,
+                    "xp/attack": 0,
+                    "tdestroyedModules": 0,
+                    "stunNum": 0,
+                    "damageAssistedInspire": 0,
+                    "achievementFreeXP": 0,
+                    "directHits": 7
+                }
+            ],
+            "10335942": [
+                {
+                    "spotted": 0,
+                    "vehicleNumCaptured": 0,
+                    "damageAssistedTrack": 0,
+                    "xpPenalty": 0,
+                    "directTeamHits": 0,
+                    "damageReceived": 1500,
+                    "piercingsReceived": 3,
+                    "sniperDamageDealt": 0,
+                    "piercingEnemyHits": 0,
+                    "damageAssistedRadio": 0,
+                    "mileage": 583,
+                    "stunDuration": 0.0,
+                    "piercings": 0,
+                    "damageBlockedByArmor": 0,
+                    "xp": 401,
+                    "droppedCapturePoints": 0,
+                    "killerID": 10335960,
+                    "xp/other": 0,
+                    "index": 0,
+                    "directHitsReceived": 5,
+                    "damageReceivedFromInvisibles": 1149,
+                    "explosionHitsReceived": 1,
+                    "achievementXP": 0,
+                    "deathReason": 0,
+                    "capturePoints": 0,
+                    "numRecovered": 0,
+                    "directEnemyHits": 1,
+                    "maxHealth": 1500,
+                    "damageEventList": null,
+                    "health": 0,
+                    "stopRespawn": false,
+                    "achievementCredits": 0,
+                    "achievements": [],
+                    "xp/assist": 0,
+                    "shots": 2,
+                    "kills": 0,
+                    "deathCount": 1,
+                    "flagCapture": 0,
+                    "damaged": 0,
+                    "tdamageDealt": 0,
+                    "resourceAbsorbed": 0,
+                    "credits": 16380,
+                    "accountDBID": 3654409,
+                    "lifeTime": 104,
+                    "noDamageDirectHitsReceived": 1,
+                    "numDefended": 0,
+                    "stunned": 0,
+                    "equipmentDamageDealt": 0,
+                    "isTeamKiller": false,
+                    "typeCompDescr": 59169,
+                    "soloFlagCapture": 0,
+                    "destructiblesHits": 0,
+                    "capturingBase": null,
+                    "damageAssistedStun": 0,
+                    "rolloutsCount": 1,
+                    "tkills": 0,
+                    "potentialDamageReceived": 1270,
+                    "damageDealt": 0,
+                    "destructiblesNumDestroyed": 0,
+                    "damageAssistedSmoke": 0,
+                    "destructiblesDamageDealt": 0,
+                    "flagActions": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "winPoints": 0,
+                    "explosionHits": 0,
+                    "team": 2,
+                    "xp/attack": 0,
+                    "tdestroyedModules": 0,
+                    "stunNum": 0,
+                    "damageAssistedInspire": 0,
+                    "achievementFreeXP": 0,
+                    "directHits": 1
+                }
+            ],
+            "10335943": [
+                {
+                    "spotted": 0,
+                    "vehicleNumCaptured": 0,
+                    "damageAssistedTrack": 0,
+                    "xpPenalty": 0,
+                    "directTeamHits": 0,
+                    "damageReceived": 530,
+                    "piercingsReceived": 1,
+                    "sniperDamageDealt": 1037,
+                    "piercingEnemyHits": 0,
+                    "damageAssistedRadio": 0,
+                    "mileage": 278,
+                    "stunDuration": 52.494751103255894,
+                    "piercings": 0,
+                    "damageBlockedByArmor": 0,
+                    "xp": 245,
+                    "droppedCapturePoints": 0,
+                    "killerID": 10335945,
+                    "xp/other": 0,
+                    "index": 0,
+                    "directHitsReceived": 1,
+                    "damageReceivedFromInvisibles": 0,
+                    "explosionHitsReceived": 0,
+                    "achievementXP": 0,
+                    "deathReason": 0,
+                    "capturePoints": 0,
+                    "numRecovered": 0,
+                    "directEnemyHits": 3,
+                    "maxHealth": 530,
+                    "damageEventList": null,
+                    "health": -5,
+                    "stopRespawn": false,
+                    "achievementCredits": 0,
+                    "achievements": [
+                        526
+                    ],
+                    "xp/assist": 0,
+                    "shots": 5,
+                    "kills": 1,
+                    "deathCount": 1,
+                    "flagCapture": 0,
+                    "damaged": 3,
+                    "tdamageDealt": 0,
+                    "resourceAbsorbed": 0,
+                    "credits": 15077,
+                    "accountDBID": 39737747,
+                    "lifeTime": 328,
+                    "noDamageDirectHitsReceived": 0,
+                    "numDefended": 0,
+                    "stunned": 3,
+                    "equipmentDamageDealt": 0,
+                    "isTeamKiller": false,
+                    "typeCompDescr": 12369,
+                    "soloFlagCapture": 0,
+                    "destructiblesHits": 0,
+                    "capturingBase": null,
+                    "damageAssistedStun": 686,
+                    "rolloutsCount": 1,
+                    "tkills": 0,
+                    "potentialDamageReceived": 650,
+                    "damageDealt": 1037,
+                    "destructiblesNumDestroyed": 0,
+                    "damageAssistedSmoke": 0,
+                    "destructiblesDamageDealt": 0,
+                    "flagActions": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "winPoints": 0,
+                    "explosionHits": 4,
+                    "team": 1,
+                    "xp/attack": 0,
+                    "tdestroyedModules": 0,
+                    "stunNum": 3,
+                    "damageAssistedInspire": 0,
+                    "achievementFreeXP": 0,
+                    "directHits": 3
+                }
+            ],
+            "10335944": [
+                {
+                    "spotted": 0,
+                    "vehicleNumCaptured": 0,
+                    "damageAssistedTrack": 0,
+                    "xpPenalty": 0,
+                    "directTeamHits": 0,
+                    "damageReceived": 2430,
+                    "piercingsReceived": 5,
+                    "sniperDamageDealt": 0,
+                    "piercingEnemyHits": 6,
+                    "damageAssistedRadio": 0,
+                    "mileage": 822,
+                    "stunDuration": 0.0,
+                    "piercings": 6,
+                    "damageBlockedByArmor": 0,
+                    "xp": 616,
+                    "droppedCapturePoints": 0,
+                    "killerID": 10335952,
+                    "xp/other": 0,
+                    "index": 0,
+                    "directHitsReceived": 6,
+                    "damageReceivedFromInvisibles": 0,
+                    "explosionHitsReceived": 0,
+                    "achievementXP": 0,
+                    "deathReason": 0,
+                    "capturePoints": 0,
+                    "numRecovered": 0,
+                    "directEnemyHits": 6,
+                    "maxHealth": 2430,
+                    "damageEventList": null,
+                    "health": 0,
+                    "stopRespawn": false,
+                    "achievementCredits": 0,
+                    "achievements": [],
+                    "xp/assist": 0,
+                    "shots": 6,
+                    "kills": 1,
+                    "deathCount": 1,
+                    "flagCapture": 0,
+                    "damaged": 3,
+                    "tdamageDealt": 0,
+                    "resourceAbsorbed": 0,
+                    "credits": 25871,
+                    "accountDBID": 31775636,
+                    "lifeTime": 120,
+                    "noDamageDirectHitsReceived": 1,
+                    "numDefended": 0,
+                    "stunned": 0,
+                    "equipmentDamageDealt": 0,
+                    "isTeamKiller": false,
+                    "typeCompDescr": 14881,
+                    "soloFlagCapture": 0,
+                    "destructiblesHits": 0,
+                    "capturingBase": null,
+                    "damageAssistedStun": 0,
+                    "rolloutsCount": 1,
+                    "tkills": 0,
+                    "potentialDamageReceived": 2480,
+                    "damageDealt": 2244,
+                    "destructiblesNumDestroyed": 0,
+                    "damageAssistedSmoke": 0,
+                    "destructiblesDamageDealt": 0,
+                    "flagActions": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "winPoints": 0,
+                    "explosionHits": 0,
+                    "team": 2,
+                    "xp/attack": 0,
+                    "tdestroyedModules": 0,
+                    "stunNum": 0,
+                    "damageAssistedInspire": 0,
+                    "achievementFreeXP": 0,
+                    "directHits": 6
+                }
+            ],
+            "10335945": [
+                {
+                    "spotted": 2,
+                    "vehicleNumCaptured": 0,
+                    "damageAssistedTrack": 208,
+                    "xpPenalty": 0,
+                    "directTeamHits": 1,
+                    "damageReceived": 2000,
+                    "piercingsReceived": 5,
+                    "sniperDamageDealt": 620,
+                    "piercingEnemyHits": 5,
+                    "damageAssistedRadio": 148,
+                    "mileage": 1642,
+                    "stunDuration": 0.0,
+                    "piercings": 5,
+                    "damageBlockedByArmor": 1300,
+                    "xp": 734,
+                    "droppedCapturePoints": 0,
+                    "killerID": 10335952,
+                    "xp/other": 0,
+                    "index": 0,
+                    "directHitsReceived": 10,
+                    "damageReceivedFromInvisibles": 886,
+                    "explosionHitsReceived": 1,
+                    "achievementXP": 0,
+                    "deathReason": 0,
+                    "capturePoints": 0,
+                    "numRecovered": 0,
+                    "directEnemyHits": 8,
+                    "maxHealth": 2000,
+                    "damageEventList": null,
+                    "health": 0,
+                    "stopRespawn": false,
+                    "achievementCredits": 0,
+                    "achievements": [
+                        521,
+                        526,
+                        524
+                    ],
+                    "xp/assist": 0,
+                    "shots": 10,
+                    "kills": 1,
+                    "deathCount": 1,
+                    "flagCapture": 0,
+                    "damaged": 6,
+                    "tdamageDealt": 0,
+                    "resourceAbsorbed": 0,
+                    "credits": 26925,
+                    "accountDBID": 66270485,
+                    "lifeTime": 366,
+                    "noDamageDirectHitsReceived": 4,
+                    "numDefended": 0,
+                    "stunned": 0,
+                    "equipmentDamageDealt": 0,
+                    "isTeamKiller": false,
+                    "typeCompDescr": 20225,
+                    "soloFlagCapture": 0,
+                    "destructiblesHits": 0,
+                    "capturingBase": null,
+                    "damageAssistedStun": 0,
+                    "rolloutsCount": 1,
+                    "tkills": 0,
+                    "potentialDamageReceived": 3390,
+                    "damageDealt": 2908,
+                    "destructiblesNumDestroyed": 0,
+                    "damageAssistedSmoke": 0,
+                    "destructiblesDamageDealt": 0,
+                    "flagActions": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "winPoints": 0,
+                    "explosionHits": 0,
+                    "team": 2,
+                    "xp/attack": 0,
+                    "tdestroyedModules": 0,
+                    "stunNum": 0,
+                    "damageAssistedInspire": 0,
+                    "achievementFreeXP": 0,
+                    "directHits": 9
+                }
+            ],
+            "10335946": [
+                {
+                    "spotted": 1,
+                    "vehicleNumCaptured": 0,
+                    "damageAssistedTrack": 441,
+                    "xpPenalty": 0,
+                    "directTeamHits": 0,
+                    "damageReceived": 1650,
+                    "piercingsReceived": 4,
+                    "sniperDamageDealt": 0,
+                    "piercingEnemyHits": 0,
+                    "damageAssistedRadio": 798,
+                    "mileage": 563,
+                    "stunDuration": 0.0,
+                    "piercings": 0,
+                    "damageBlockedByArmor": 400,
+                    "xp": 246,
+                    "droppedCapturePoints": 0,
+                    "killerID": 10335947,
+                    "xp/other": 0,
+                    "index": 0,
+                    "directHitsReceived": 5,
+                    "damageReceivedFromInvisibles": 0,
+                    "explosionHitsReceived": 0,
+                    "achievementXP": 0,
+                    "deathReason": 0,
+                    "capturePoints": 0,
+                    "numRecovered": 0,
+                    "directEnemyHits": 2,
+                    "maxHealth": 1650,
+                    "damageEventList": null,
+                    "health": -3,
+                    "stopRespawn": false,
+                    "achievementCredits": 0,
+                    "achievements": [],
+                    "xp/assist": 0,
+                    "shots": 3,
+                    "kills": 0,
+                    "deathCount": 1,
+                    "flagCapture": 0,
+                    "damaged": 1,
+                    "tdamageDealt": 0,
+                    "resourceAbsorbed": 0,
+                    "credits": 19627,
+                    "accountDBID": 1886871,
+                    "lifeTime": 186,
+                    "noDamageDirectHitsReceived": 1,
+                    "numDefended": 0,
+                    "stunned": 0,
+                    "equipmentDamageDealt": 0,
+                    "isTeamKiller": false,
+                    "typeCompDescr": 54289,
+                    "soloFlagCapture": 0,
+                    "destructiblesHits": 0,
+                    "capturingBase": null,
+                    "damageAssistedStun": 0,
+                    "rolloutsCount": 1,
+                    "tkills": 0,
+                    "potentialDamageReceived": 2350,
+                    "damageDealt": 0,
+                    "destructiblesNumDestroyed": 0,
+                    "damageAssistedSmoke": 0,
+                    "destructiblesDamageDealt": 0,
+                    "flagActions": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "winPoints": 0,
+                    "explosionHits": 0,
+                    "team": 1,
+                    "xp/attack": 0,
+                    "tdestroyedModules": 0,
+                    "stunNum": 0,
+                    "damageAssistedInspire": 0,
+                    "achievementFreeXP": 0,
+                    "directHits": 2
+                }
+            ],
+            "10335947": [
+                {
+                    "spotted": 1,
+                    "vehicleNumCaptured": 0,
+                    "damageAssistedTrack": 0,
+                    "xpPenalty": 0,
+                    "directTeamHits": 0,
+                    "damageReceived": 1300,
+                    "piercingsReceived": 4,
+                    "sniperDamageDealt": 0,
+                    "piercingEnemyHits": 2,
+                    "damageAssistedRadio": 140,
+                    "mileage": 1395,
+                    "stunDuration": 0.0,
+                    "piercings": 2,
+                    "damageBlockedByArmor": 0,
+                    "xp": 579,
+                    "droppedCapturePoints": 0,
+                    "killerID": 10335955,
+                    "xp/other": 0,
+                    "index": 0,
+                    "directHitsReceived": 5,
+                    "damageReceivedFromInvisibles": 411,
+                    "explosionHitsReceived": 0,
+                    "achievementXP": 0,
+                    "deathReason": 0,
+                    "capturePoints": 0,
+                    "numRecovered": 0,
+                    "directEnemyHits": 4,
+                    "maxHealth": 1300,
+                    "damageEventList": null,
+                    "health": 0,
+                    "stopRespawn": false,
+                    "achievementCredits": 0,
+                    "achievements": [],
+                    "xp/assist": 0,
+                    "shots": 4,
+                    "kills": 1,
+                    "deathCount": 1,
+                    "flagCapture": 0,
+                    "damaged": 3,
+                    "tdamageDealt": 0,
+                    "resourceAbsorbed": 0,
+                    "credits": 11669,
+                    "accountDBID": 41827396,
+                    "lifeTime": 227,
+                    "noDamageDirectHitsReceived": 1,
+                    "numDefended": 0,
+                    "stunned": 0,
+                    "equipmentDamageDealt": 0,
+                    "isTeamKiller": false,
+                    "typeCompDescr": 4353,
+                    "soloFlagCapture": 0,
+                    "destructiblesHits": 0,
+                    "capturingBase": null,
+                    "damageAssistedStun": 0,
+                    "rolloutsCount": 1,
+                    "tkills": 0,
+                    "potentialDamageReceived": 1660,
+                    "damageDealt": 335,
+                    "destructiblesNumDestroyed": 0,
+                    "damageAssistedSmoke": 0,
+                    "destructiblesDamageDealt": 0,
+                    "flagActions": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "winPoints": 0,
+                    "explosionHits": 0,
+                    "team": 2,
+                    "xp/attack": 0,
+                    "tdestroyedModules": 0,
+                    "stunNum": 0,
+                    "damageAssistedInspire": 0,
+                    "achievementFreeXP": 0,
+                    "directHits": 4
+                }
+            ],
+            "10335948": [
+                {
+                    "spotted": 2,
+                    "vehicleNumCaptured": 0,
+                    "damageAssistedTrack": 0,
+                    "xpPenalty": 0,
+                    "directTeamHits": 0,
+                    "damageReceived": 900,
+                    "piercingsReceived": 2,
+                    "sniperDamageDealt": 0,
+                    "piercingEnemyHits": 0,
+                    "damageAssistedRadio": 0,
+                    "mileage": 590,
+                    "stunDuration": 0.0,
+                    "piercings": 0,
+                    "damageBlockedByArmor": 0,
+                    "xp": 135,
+                    "droppedCapturePoints": 0,
+                    "killerID": 10335949,
+                    "xp/other": 0,
+                    "index": 0,
+                    "directHitsReceived": 2,
+                    "damageReceivedFromInvisibles": 451,
+                    "explosionHitsReceived": 0,
+                    "achievementXP": 0,
+                    "deathReason": 0,
+                    "capturePoints": 0,
+                    "numRecovered": 0,
+                    "directEnemyHits": 0,
+                    "maxHealth": 900,
+                    "damageEventList": null,
+                    "health": 0,
+                    "stopRespawn": false,
+                    "achievementCredits": 0,
+                    "achievements": [],
+                    "xp/assist": 0,
+                    "shots": 1,
+                    "kills": 0,
+                    "deathCount": 1,
+                    "flagCapture": 0,
+                    "damaged": 0,
+                    "tdamageDealt": 0,
+                    "resourceAbsorbed": 0,
+                    "credits": 8700,
+                    "accountDBID": 100918171,
+                    "lifeTime": 35,
+                    "noDamageDirectHitsReceived": 0,
+                    "numDefended": 0,
+                    "stunned": 0,
+                    "equipmentDamageDealt": 0,
+                    "isTeamKiller": false,
+                    "typeCompDescr": 61505,
+                    "soloFlagCapture": 0,
+                    "destructiblesHits": 0,
+                    "capturingBase": null,
+                    "damageAssistedStun": 0,
+                    "rolloutsCount": 1,
+                    "tkills": 0,
+                    "potentialDamageReceived": 1150,
+                    "damageDealt": 0,
+                    "destructiblesNumDestroyed": 0,
+                    "damageAssistedSmoke": 0,
+                    "destructiblesDamageDealt": 0,
+                    "flagActions": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "winPoints": 0,
+                    "explosionHits": 0,
+                    "team": 1,
+                    "xp/attack": 0,
+                    "tdestroyedModules": 0,
+                    "stunNum": 0,
+                    "damageAssistedInspire": 0,
+                    "achievementFreeXP": 0,
+                    "directHits": 0
+                }
+            ],
+            "10335949": [
+                {
+                    "spotted": 0,
+                    "vehicleNumCaptured": 0,
+                    "damageAssistedTrack": 0,
+                    "xpPenalty": 0,
+                    "directTeamHits": 0,
+                    "damageReceived": 0,
+                    "piercingsReceived": 0,
+                    "sniperDamageDealt": 0,
+                    "piercingEnemyHits": 1,
+                    "damageAssistedRadio": 0,
+                    "mileage": 2130,
+                    "stunDuration": 0.0,
+                    "piercings": 1,
+                    "damageBlockedByArmor": 0,
+                    "xp": 497,
+                    "droppedCapturePoints": 0,
+                    "killerID": 0,
+                    "xp/other": 0,
+                    "index": 0,
+                    "directHitsReceived": 0,
+                    "damageReceivedFromInvisibles": 0,
+                    "explosionHitsReceived": 0,
+                    "achievementXP": 0,
+                    "deathReason": -1,
+                    "capturePoints": 0,
+                    "numRecovered": 0,
+                    "directEnemyHits": 1,
+                    "maxHealth": 1600,
+                    "damageEventList": null,
+                    "health": 1600,
+                    "stopRespawn": false,
+                    "achievementCredits": 0,
+                    "achievements": [],
+                    "xp/assist": 0,
+                    "shots": 2,
+                    "kills": 1,
+                    "deathCount": 0,
+                    "flagCapture": 0,
+                    "damaged": 1,
+                    "tdamageDealt": 0,
+                    "resourceAbsorbed": 0,
+                    "credits": 10038,
+                    "accountDBID": 24993819,
+                    "lifeTime": 404,
+                    "noDamageDirectHitsReceived": 0,
+                    "numDefended": 0,
+                    "stunned": 0,
+                    "equipmentDamageDealt": 0,
+                    "isTeamKiller": false,
+                    "typeCompDescr": 8193,
+                    "soloFlagCapture": 0,
+                    "destructiblesHits": 0,
+                    "capturingBase": null,
+                    "damageAssistedStun": 0,
+                    "rolloutsCount": 1,
+                    "tkills": 0,
+                    "potentialDamageReceived": 0,
+                    "damageDealt": 449,
+                    "destructiblesNumDestroyed": 0,
+                    "damageAssistedSmoke": 0,
+                    "destructiblesDamageDealt": 0,
+                    "flagActions": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "winPoints": 0,
+                    "explosionHits": 0,
+                    "team": 2,
+                    "xp/attack": 0,
+                    "tdestroyedModules": 0,
+                    "stunNum": 0,
+                    "damageAssistedInspire": 0,
+                    "achievementFreeXP": 0,
+                    "directHits": 1
+                }
+            ],
+            "10335950": [
+                {
+                    "spotted": 0,
+                    "vehicleNumCaptured": 0,
+                    "damageAssistedTrack": 0,
+                    "xpPenalty": 0,
+                    "directTeamHits": 0,
+                    "damageReceived": 1165,
+                    "piercingsReceived": 2,
+                    "sniperDamageDealt": 332,
+                    "piercingEnemyHits": 10,
+                    "damageAssistedRadio": 290,
+                    "mileage": 2255,
+                    "stunDuration": 0.0,
+                    "piercings": 10,
+                    "damageBlockedByArmor": 0,
+                    "xp": 921,
+                    "droppedCapturePoints": 0,
+                    "killerID": 0,
+                    "xp/other": 0,
+                    "index": 0,
+                    "directHitsReceived": 2,
+                    "damageReceivedFromInvisibles": 0,
+                    "explosionHitsReceived": 0,
+                    "achievementXP": 0,
+                    "deathReason": -1,
+                    "capturePoints": 0,
+                    "numRecovered": 0,
+                    "directEnemyHits": 14,
+                    "maxHealth": 1700,
+                    "damageEventList": null,
+                    "health": 535,
+                    "stopRespawn": false,
+                    "achievementCredits": 0,
+                    "achievements": [
+                        521
+                    ],
+                    "xp/assist": 0,
+                    "shots": 16,
+                    "kills": 2,
+                    "deathCount": 0,
+                    "flagCapture": 0,
+                    "damaged": 4,
+                    "tdamageDealt": 0,
+                    "resourceAbsorbed": 0,
+                    "credits": 31126,
+                    "accountDBID": 14452396,
+                    "lifeTime": 404,
+                    "noDamageDirectHitsReceived": 0,
+                    "numDefended": 0,
+                    "stunned": 0,
+                    "equipmentDamageDealt": 0,
+                    "isTeamKiller": false,
+                    "typeCompDescr": 2465,
+                    "soloFlagCapture": 0,
+                    "destructiblesHits": 0,
+                    "capturingBase": null,
+                    "damageAssistedStun": 0,
+                    "rolloutsCount": 1,
+                    "tkills": 0,
+                    "potentialDamageReceived": 1060,
+                    "damageDealt": 3338,
+                    "destructiblesNumDestroyed": 0,
+                    "damageAssistedSmoke": 0,
+                    "destructiblesDamageDealt": 0,
+                    "flagActions": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "winPoints": 0,
+                    "explosionHits": 0,
+                    "team": 2,
+                    "xp/attack": 0,
+                    "tdestroyedModules": 0,
+                    "stunNum": 0,
+                    "damageAssistedInspire": 0,
+                    "achievementFreeXP": 0,
+                    "directHits": 14
+                }
+            ],
+            "10335951": [
+                {
+                    "spotted": 4,
+                    "vehicleNumCaptured": 0,
+                    "damageAssistedTrack": 807,
+                    "xpPenalty": 0,
+                    "directTeamHits": 0,
+                    "damageReceived": 360,
+                    "piercingsReceived": 1,
+                    "sniperDamageDealt": 892,
+                    "piercingEnemyHits": 7,
+                    "damageAssistedRadio": 290,
+                    "mileage": 2212,
+                    "stunDuration": 0.0,
+                    "piercings": 7,
+                    "damageBlockedByArmor": 0,
+                    "xp": 912,
+                    "droppedCapturePoints": 0,
+                    "killerID": 0,
+                    "xp/other": 0,
+                    "index": 0,
+                    "directHitsReceived": 1,
+                    "damageReceivedFromInvisibles": 0,
+                    "explosionHitsReceived": 0,
+                    "achievementXP": 0,
+                    "deathReason": -1,
+                    "capturePoints": 0,
+                    "numRecovered": 0,
+                    "directEnemyHits": 16,
+                    "maxHealth": 1050,
+                    "damageEventList": null,
+                    "health": 690,
+                    "stopRespawn": false,
+                    "achievementCredits": 0,
+                    "achievements": [
+                        521,
+                        526
+                    ],
+                    "xp/assist": 0,
+                    "shots": 22,
+                    "kills": 3,
+                    "deathCount": 0,
+                    "flagCapture": 0,
+                    "damaged": 6,
+                    "tdamageDealt": 0,
+                    "resourceAbsorbed": 0,
+                    "credits": 43418,
+                    "accountDBID": 27953076,
+                    "lifeTime": 404,
+                    "noDamageDirectHitsReceived": 0,
+                    "numDefended": 0,
+                    "stunned": 0,
+                    "equipmentDamageDealt": 0,
+                    "isTeamKiller": false,
+                    "typeCompDescr": 58449,
+                    "soloFlagCapture": 0,
+                    "destructiblesHits": 0,
+                    "capturingBase": 1,
+                    "damageAssistedStun": 0,
+                    "rolloutsCount": 1,
+                    "tkills": 0,
+                    "potentialDamageReceived": 390,
+                    "damageDealt": 1492,
+                    "destructiblesNumDestroyed": 0,
+                    "damageAssistedSmoke": 0,
+                    "destructiblesDamageDealt": 0,
+                    "flagActions": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "winPoints": 0,
+                    "explosionHits": 4,
+                    "team": 2,
+                    "xp/attack": 0,
+                    "tdestroyedModules": 0,
+                    "stunNum": 0,
+                    "damageAssistedInspire": 0,
+                    "achievementFreeXP": 0,
+                    "directHits": 16
+                }
+            ],
+            "10335952": [
+                {
+                    "spotted": 1,
+                    "vehicleNumCaptured": 0,
+                    "damageAssistedTrack": 0,
+                    "xpPenalty": 0,
+                    "directTeamHits": 0,
+                    "damageReceived": 2150,
+                    "piercingsReceived": 4,
+                    "sniperDamageDealt": 0,
+                    "piercingEnemyHits": 7,
+                    "damageAssistedRadio": 0,
+                    "mileage": 2118,
+                    "stunDuration": 0.0,
+                    "piercings": 7,
+                    "damageBlockedByArmor": 1080,
+                    "xp": 500,
+                    "droppedCapturePoints": 0,
+                    "killerID": 10335967,
+                    "xp/other": 0,
+                    "index": 0,
+                    "directHitsReceived": 9,
+                    "damageReceivedFromInvisibles": 1163,
+                    "explosionHitsReceived": 2,
+                    "achievementXP": 0,
+                    "deathReason": 0,
+                    "capturePoints": 0,
+                    "numRecovered": 0,
+                    "directEnemyHits": 7,
+                    "maxHealth": 2150,
+                    "damageEventList": null,
+                    "health": -3,
+                    "stopRespawn": false,
+                    "achievementCredits": 0,
+                    "achievements": [
+                        521
+                    ],
+                    "xp/assist": 0,
+                    "shots": 9,
+                    "kills": 2,
+                    "deathCount": 1,
+                    "flagCapture": 0,
+                    "damaged": 4,
+                    "tdamageDealt": 0,
+                    "resourceAbsorbed": 0,
+                    "credits": 29262,
+                    "accountDBID": 20346294,
+                    "lifeTime": 399,
+                    "noDamageDirectHitsReceived": 4,
+                    "numDefended": 0,
+                    "stunned": 0,
+                    "equipmentDamageDealt": 0,
+                    "isTeamKiller": false,
+                    "typeCompDescr": 9745,
+                    "soloFlagCapture": 0,
+                    "destructiblesHits": 0,
+                    "capturingBase": null,
+                    "damageAssistedStun": 0,
+                    "rolloutsCount": 1,
+                    "tkills": 0,
+                    "potentialDamageReceived": 2940,
+                    "damageDealt": 3246,
+                    "destructiblesNumDestroyed": 0,
+                    "damageAssistedSmoke": 0,
+                    "destructiblesDamageDealt": 0,
+                    "flagActions": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "winPoints": 0,
+                    "explosionHits": 0,
+                    "team": 1,
+                    "xp/attack": 0,
+                    "tdestroyedModules": 0,
+                    "stunNum": 0,
+                    "damageAssistedInspire": 0,
+                    "achievementFreeXP": 0,
+                    "directHits": 7
+                }
+            ],
+            "10335953": [
+                {
+                    "spotted": 1,
+                    "vehicleNumCaptured": 0,
+                    "damageAssistedTrack": 0,
+                    "xpPenalty": 0,
+                    "directTeamHits": 0,
+                    "damageReceived": 1400,
+                    "piercingsReceived": 4,
+                    "sniperDamageDealt": 0,
+                    "piercingEnemyHits": 1,
+                    "damageAssistedRadio": 0,
+                    "mileage": 930,
+                    "stunDuration": 0.0,
+                    "piercings": 1,
+                    "damageBlockedByArmor": 0,
+                    "xp": 211,
+                    "droppedCapturePoints": 0,
+                    "killerID": 10335944,
+                    "xp/other": 0,
+                    "index": 0,
+                    "directHitsReceived": 4,
+                    "damageReceivedFromInvisibles": 0,
+                    "explosionHitsReceived": 0,
+                    "achievementXP": 0,
+                    "deathReason": 0,
+                    "capturePoints": 0,
+                    "numRecovered": 0,
+                    "directEnemyHits": 1,
+                    "maxHealth": 1400,
+                    "damageEventList": null,
+                    "health": 0,
+                    "stopRespawn": false,
+                    "achievementCredits": 0,
+                    "achievements": [],
+                    "xp/assist": 0,
+                    "shots": 1,
+                    "kills": 0,
+                    "deathCount": 1,
+                    "flagCapture": 0,
+                    "damaged": 1,
+                    "tdamageDealt": 0,
+                    "resourceAbsorbed": 0,
+                    "credits": 7808,
+                    "accountDBID": 8657721,
+                    "lifeTime": 92,
+                    "noDamageDirectHitsReceived": 0,
+                    "numDefended": 0,
+                    "stunned": 0,
+                    "equipmentDamageDealt": 0,
+                    "isTeamKiller": false,
+                    "typeCompDescr": 57425,
+                    "soloFlagCapture": 0,
+                    "destructiblesHits": 0,
+                    "capturingBase": null,
+                    "damageAssistedStun": 0,
+                    "rolloutsCount": 1,
+                    "tkills": 0,
+                    "potentialDamageReceived": 1600,
+                    "damageDealt": 471,
+                    "destructiblesNumDestroyed": 0,
+                    "damageAssistedSmoke": 0,
+                    "destructiblesDamageDealt": 0,
+                    "flagActions": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "winPoints": 0,
+                    "explosionHits": 0,
+                    "team": 1,
+                    "xp/attack": 0,
+                    "tdestroyedModules": 0,
+                    "stunNum": 0,
+                    "damageAssistedInspire": 0,
+                    "achievementFreeXP": 0,
+                    "directHits": 1
+                }
+            ],
+            "10335954": [
+                {
+                    "spotted": 0,
+                    "vehicleNumCaptured": 0,
+                    "damageAssistedTrack": 0,
+                    "xpPenalty": 0,
+                    "directTeamHits": 0,
+                    "damageReceived": 2000,
+                    "piercingsReceived": 4,
+                    "sniperDamageDealt": 0,
+                    "piercingEnemyHits": 3,
+                    "damageAssistedRadio": 82,
+                    "mileage": 1146,
+                    "stunDuration": 0.0,
+                    "piercings": 3,
+                    "damageBlockedByArmor": 480,
+                    "xp": 556,
+                    "droppedCapturePoints": 0,
+                    "killerID": 10335943,
+                    "xp/other": 0,
+                    "index": 0,
+                    "directHitsReceived": 7,
+                    "damageReceivedFromInvisibles": 192,
+                    "explosionHitsReceived": 2,
+                    "achievementXP": 0,
+                    "deathReason": 0,
+                    "capturePoints": 0,
+                    "numRecovered": 0,
+                    "directEnemyHits": 4,
+                    "maxHealth": 2000,
+                    "damageEventList": null,
+                    "health": 0,
+                    "stopRespawn": false,
+                    "achievementCredits": 0,
+                    "achievements": [],
+                    "xp/assist": 0,
+                    "shots": 4,
+                    "kills": 0,
+                    "deathCount": 1,
+                    "flagCapture": 0,
+                    "damaged": 1,
+                    "tdamageDealt": 0,
+                    "resourceAbsorbed": 0,
+                    "credits": 18105,
+                    "accountDBID": 2369731,
+                    "lifeTime": 191,
+                    "noDamageDirectHitsReceived": 2,
+                    "numDefended": 0,
+                    "stunned": 0,
+                    "equipmentDamageDealt": 0,
+                    "isTeamKiller": false,
+                    "typeCompDescr": 15393,
+                    "soloFlagCapture": 0,
+                    "destructiblesHits": 0,
+                    "capturingBase": null,
+                    "damageAssistedStun": 0,
+                    "rolloutsCount": 1,
+                    "tkills": 0,
+                    "potentialDamageReceived": 2270,
+                    "damageDealt": 1203,
+                    "destructiblesNumDestroyed": 0,
+                    "damageAssistedSmoke": 0,
+                    "destructiblesDamageDealt": 0,
+                    "flagActions": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "winPoints": 0,
+                    "explosionHits": 0,
+                    "team": 2,
+                    "xp/attack": 0,
+                    "tdestroyedModules": 0,
+                    "stunNum": 0,
+                    "damageAssistedInspire": 0,
+                    "achievementFreeXP": 0,
+                    "directHits": 4
+                }
+            ],
+            "10335955": [
+                {
+                    "spotted": 1,
+                    "vehicleNumCaptured": 0,
+                    "damageAssistedTrack": 0,
+                    "xpPenalty": 0,
+                    "directTeamHits": 0,
+                    "damageReceived": 1700,
+                    "piercingsReceived": 5,
+                    "sniperDamageDealt": 416,
+                    "piercingEnemyHits": 6,
+                    "damageAssistedRadio": 493,
+                    "mileage": 1229,
+                    "stunDuration": 0.0,
+                    "piercings": 6,
+                    "damageBlockedByArmor": 180,
+                    "xp": 383,
+                    "droppedCapturePoints": 0,
+                    "killerID": 10335951,
+                    "xp/other": 0,
+                    "index": 0,
+                    "directHitsReceived": 7,
+                    "damageReceivedFromInvisibles": 388,
+                    "explosionHitsReceived": 1,
+                    "achievementXP": 0,
+                    "deathReason": 0,
+                    "capturePoints": 0,
+                    "numRecovered": 0,
+                    "directEnemyHits": 7,
+                    "maxHealth": 1700,
+                    "damageEventList": null,
+                    "health": 0,
+                    "stopRespawn": false,
+                    "achievementCredits": 0,
+                    "achievements": [
+                        521
+                    ],
+                    "xp/assist": 0,
+                    "shots": 9,
+                    "kills": 1,
+                    "deathCount": 1,
+                    "flagCapture": 0,
+                    "damaged": 4,
+                    "tdamageDealt": 0,
+                    "resourceAbsorbed": 0,
+                    "credits": 20639,
+                    "accountDBID": 319812,
+                    "lifeTime": 295,
+                    "noDamageDirectHitsReceived": 1,
+                    "numDefended": 0,
+                    "stunned": 0,
+                    "equipmentDamageDealt": 0,
+                    "isTeamKiller": false,
+                    "typeCompDescr": 2177,
+                    "soloFlagCapture": 0,
+                    "destructiblesHits": 0,
+                    "capturingBase": null,
+                    "damageAssistedStun": 0,
+                    "rolloutsCount": 1,
+                    "tkills": 0,
+                    "potentialDamageReceived": 1550,
+                    "damageDealt": 2141,
+                    "destructiblesNumDestroyed": 0,
+                    "damageAssistedSmoke": 0,
+                    "destructiblesDamageDealt": 0,
+                    "flagActions": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "winPoints": 0,
+                    "explosionHits": 0,
+                    "team": 1,
+                    "xp/attack": 0,
+                    "tdestroyedModules": 0,
+                    "stunNum": 0,
+                    "damageAssistedInspire": 0,
+                    "achievementFreeXP": 0,
+                    "directHits": 7
+                }
+            ],
+            "10335956": [
+                {
+                    "spotted": 7,
+                    "vehicleNumCaptured": 0,
+                    "damageAssistedTrack": 0,
+                    "xpPenalty": 0,
+                    "directTeamHits": 0,
+                    "damageReceived": 0,
+                    "piercingsReceived": 0,
+                    "sniperDamageDealt": 0,
+                    "piercingEnemyHits": 6,
+                    "damageAssistedRadio": 7439,
+                    "mileage": 1839,
+                    "stunDuration": 0.0,
+                    "piercings": 6,
+                    "damageBlockedByArmor": 0,
+                    "xp": 1426,
+                    "droppedCapturePoints": 0,
+                    "killerID": 0,
+                    "xp/other": 0,
+                    "index": 0,
+                    "directHitsReceived": 0,
+                    "damageReceivedFromInvisibles": 0,
+                    "explosionHitsReceived": 0,
+                    "achievementXP": 0,
+                    "deathReason": -1,
+                    "capturePoints": 0,
+                    "numRecovered": 0,
+                    "directEnemyHits": 8,
+                    "maxHealth": 1100,
+                    "damageEventList": null,
+                    "health": 1100,
+                    "stopRespawn": false,
+                    "achievementCredits": 0,
+                    "achievements": [
+                        72
+                    ],
+                    "xp/assist": 0,
+                    "shots": 10,
+                    "kills": 1,
+                    "deathCount": 0,
+                    "flagCapture": 0,
+                    "damaged": 3,
+                    "tdamageDealt": 0,
+                    "resourceAbsorbed": 0,
+                    "credits": 87318,
+                    "accountDBID": 118809929,
+                    "lifeTime": 404,
+                    "noDamageDirectHitsReceived": 0,
+                    "numDefended": 0,
+                    "stunned": 0,
+                    "equipmentDamageDealt": 0,
+                    "isTeamKiller": false,
+                    "typeCompDescr": 45569,
+                    "soloFlagCapture": 0,
+                    "destructiblesHits": 0,
+                    "capturingBase": null,
+                    "damageAssistedStun": 0,
+                    "rolloutsCount": 1,
+                    "tkills": 0,
+                    "potentialDamageReceived": 0,
+                    "damageDealt": 1033,
+                    "destructiblesNumDestroyed": 0,
+                    "damageAssistedSmoke": 0,
+                    "destructiblesDamageDealt": 0,
+                    "flagActions": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "winPoints": 0,
+                    "explosionHits": 0,
+                    "team": 2,
+                    "xp/attack": 0,
+                    "tdestroyedModules": 0,
+                    "stunNum": 0,
+                    "damageAssistedInspire": 0,
+                    "achievementFreeXP": 0,
+                    "directHits": 8
+                }
+            ],
+            "10335957": [
+                {
+                    "spotted": 0,
+                    "vehicleNumCaptured": 0,
+                    "damageAssistedTrack": 162,
+                    "xpPenalty": 0,
+                    "directTeamHits": 0,
+                    "damageReceived": 0,
+                    "piercingsReceived": 0,
+                    "sniperDamageDealt": 2353,
+                    "piercingEnemyHits": 3,
+                    "damageAssistedRadio": 290,
+                    "mileage": 1012,
+                    "stunDuration": 0.0,
+                    "piercings": 3,
+                    "damageBlockedByArmor": 0,
+                    "xp": 924,
+                    "droppedCapturePoints": 0,
+                    "killerID": 0,
+                    "xp/other": 0,
+                    "index": 0,
+                    "directHitsReceived": 0,
+                    "damageReceivedFromInvisibles": 0,
+                    "explosionHitsReceived": 0,
+                    "achievementXP": 0,
+                    "deathReason": -1,
+                    "capturePoints": 0,
+                    "numRecovered": 0,
+                    "directEnemyHits": 7,
+                    "maxHealth": 1200,
+                    "damageEventList": null,
+                    "health": 1200,
+                    "stopRespawn": false,
+                    "achievementCredits": 0,
+                    "achievements": [
+                        521,
+                        526
+                    ],
+                    "xp/assist": 0,
+                    "shots": 11,
+                    "kills": 0,
+                    "deathCount": 0,
+                    "flagCapture": 0,
+                    "damaged": 5,
+                    "tdamageDealt": 0,
+                    "resourceAbsorbed": 0,
+                    "credits": 56033,
+                    "accountDBID": 2967889,
+                    "lifeTime": 404,
+                    "noDamageDirectHitsReceived": 0,
+                    "numDefended": 0,
+                    "stunned": 0,
+                    "equipmentDamageDealt": 0,
+                    "isTeamKiller": false,
+                    "typeCompDescr": 31745,
+                    "soloFlagCapture": 0,
+                    "destructiblesHits": 0,
+                    "capturingBase": null,
+                    "damageAssistedStun": 0,
+                    "rolloutsCount": 1,
+                    "tkills": 0,
+                    "potentialDamageReceived": 0,
+                    "damageDealt": 2970,
+                    "destructiblesNumDestroyed": 0,
+                    "damageAssistedSmoke": 0,
+                    "destructiblesDamageDealt": 0,
+                    "flagActions": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "winPoints": 0,
+                    "explosionHits": 3,
+                    "team": 2,
+                    "xp/attack": 0,
+                    "tdestroyedModules": 0,
+                    "stunNum": 0,
+                    "damageAssistedInspire": 0,
+                    "achievementFreeXP": 0,
+                    "directHits": 7
+                }
+            ],
+            "10335958": [
+                {
+                    "spotted": 0,
+                    "vehicleNumCaptured": 0,
+                    "damageAssistedTrack": 0,
+                    "xpPenalty": 0,
+                    "directTeamHits": 0,
+                    "damageReceived": 1150,
+                    "piercingsReceived": 3,
+                    "sniperDamageDealt": 0,
+                    "piercingEnemyHits": 0,
+                    "damageAssistedRadio": 1061,
+                    "mileage": 255,
+                    "stunDuration": 0.0,
+                    "piercings": 0,
+                    "damageBlockedByArmor": 0,
+                    "xp": 181,
+                    "droppedCapturePoints": 0,
+                    "killerID": 10335951,
+                    "xp/other": 0,
+                    "index": 0,
+                    "directHitsReceived": 3,
+                    "damageReceivedFromInvisibles": 1150,
+                    "explosionHitsReceived": 0,
+                    "achievementXP": 0,
+                    "deathReason": 0,
+                    "capturePoints": 0,
+                    "numRecovered": 0,
+                    "directEnemyHits": 0,
+                    "maxHealth": 1150,
+                    "damageEventList": null,
+                    "health": 0,
+                    "stopRespawn": false,
+                    "achievementCredits": 0,
+                    "achievements": [],
+                    "xp/assist": 0,
+                    "shots": 0,
+                    "kills": 0,
+                    "deathCount": 1,
+                    "flagCapture": 0,
+                    "damaged": 0,
+                    "tdamageDealt": 0,
+                    "resourceAbsorbed": 0,
+                    "credits": 7753,
+                    "accountDBID": 30104660,
+                    "lifeTime": 212,
+                    "noDamageDirectHitsReceived": 0,
+                    "numDefended": 0,
+                    "stunned": 0,
+                    "equipmentDamageDealt": 0,
+                    "isTeamKiller": false,
+                    "typeCompDescr": 11297,
+                    "soloFlagCapture": 0,
+                    "destructiblesHits": 0,
+                    "capturingBase": null,
+                    "damageAssistedStun": 0,
+                    "rolloutsCount": 1,
+                    "tkills": 0,
+                    "potentialDamageReceived": 750,
+                    "damageDealt": 0,
+                    "destructiblesNumDestroyed": 0,
+                    "damageAssistedSmoke": 0,
+                    "destructiblesDamageDealt": 0,
+                    "flagActions": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "winPoints": 0,
+                    "explosionHits": 0,
+                    "team": 1,
+                    "xp/attack": 0,
+                    "tdestroyedModules": 0,
+                    "stunNum": 0,
+                    "damageAssistedInspire": 0,
+                    "achievementFreeXP": 0,
+                    "directHits": 0
+                }
+            ],
+            "10335959": [
+                {
+                    "spotted": 0,
+                    "vehicleNumCaptured": 0,
+                    "damageAssistedTrack": 0,
+                    "xpPenalty": 0,
+                    "directTeamHits": 1,
+                    "damageReceived": 0,
+                    "piercingsReceived": 0,
+                    "sniperDamageDealt": 1439,
+                    "piercingEnemyHits": 1,
+                    "damageAssistedRadio": 0,
+                    "mileage": 942,
+                    "stunDuration": 66.35970135837793,
+                    "piercings": 1,
+                    "damageBlockedByArmor": 0,
+                    "xp": 669,
+                    "droppedCapturePoints": 0,
+                    "killerID": 0,
+                    "xp/other": 0,
+                    "index": 0,
+                    "directHitsReceived": 0,
+                    "damageReceivedFromInvisibles": 0,
+                    "explosionHitsReceived": 0,
+                    "achievementXP": 0,
+                    "deathReason": -1,
+                    "capturePoints": 0,
+                    "numRecovered": 0,
+                    "directEnemyHits": 2,
+                    "maxHealth": 530,
+                    "damageEventList": null,
+                    "health": 530,
+                    "stopRespawn": false,
+                    "achievementCredits": 0,
+                    "achievements": [
+                        526
+                    ],
+                    "xp/assist": 0,
+                    "shots": 6,
+                    "kills": 1,
+                    "deathCount": 0,
+                    "flagCapture": 0,
+                    "damaged": 4,
+                    "tdamageDealt": 0,
+                    "resourceAbsorbed": 0,
+                    "credits": 23145,
+                    "accountDBID": 34448983,
+                    "lifeTime": 404,
+                    "noDamageDirectHitsReceived": 0,
+                    "numDefended": 0,
+                    "stunned": 3,
+                    "equipmentDamageDealt": 0,
+                    "isTeamKiller": false,
+                    "typeCompDescr": 12369,
+                    "soloFlagCapture": 0,
+                    "destructiblesHits": 0,
+                    "capturingBase": null,
+                    "damageAssistedStun": 895,
+                    "rolloutsCount": 1,
+                    "tkills": 0,
+                    "potentialDamageReceived": 0,
+                    "damageDealt": 1439,
+                    "destructiblesNumDestroyed": 0,
+                    "damageAssistedSmoke": 0,
+                    "destructiblesDamageDealt": 0,
+                    "flagActions": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "winPoints": 0,
+                    "explosionHits": 4,
+                    "team": 2,
+                    "xp/attack": 0,
+                    "tdestroyedModules": 0,
+                    "stunNum": 4,
+                    "damageAssistedInspire": 0,
+                    "achievementFreeXP": 0,
+                    "directHits": 3
+                }
+            ],
+            "10335960": [
+                {
+                    "spotted": 0,
+                    "vehicleNumCaptured": 0,
+                    "damageAssistedTrack": 609,
+                    "xpPenalty": 0,
+                    "directTeamHits": 0,
+                    "damageReceived": 1750,
+                    "piercingsReceived": 5,
+                    "sniperDamageDealt": 790,
+                    "piercingEnemyHits": 4,
+                    "damageAssistedRadio": 0,
+                    "mileage": 835,
+                    "stunDuration": 0.0,
+                    "piercings": 4,
+                    "damageBlockedByArmor": 1250,
+                    "xp": 327,
+                    "droppedCapturePoints": 0,
+                    "killerID": 10335950,
+                    "xp/other": 0,
+                    "index": 0,
+                    "directHitsReceived": 9,
+                    "damageReceivedFromInvisibles": 0,
+                    "explosionHitsReceived": 0,
+                    "achievementXP": 0,
+                    "deathReason": 0,
+                    "capturePoints": 0,
+                    "numRecovered": 0,
+                    "directEnemyHits": 6,
+                    "maxHealth": 1750,
+                    "damageEventList": null,
+                    "health": 0,
+                    "stopRespawn": false,
+                    "achievementCredits": 0,
+                    "achievements": [],
+                    "xp/assist": 0,
+                    "shots": 7,
+                    "kills": 1,
+                    "deathCount": 1,
+                    "flagCapture": 0,
+                    "damaged": 3,
+                    "tdamageDealt": 0,
+                    "resourceAbsorbed": 0,
+                    "credits": 16104,
+                    "accountDBID": 1658584,
+                    "lifeTime": 221,
+                    "noDamageDirectHitsReceived": 4,
+                    "numDefended": 0,
+                    "stunned": 0,
+                    "equipmentDamageDealt": 0,
+                    "isTeamKiller": false,
+                    "typeCompDescr": 1841,
+                    "soloFlagCapture": 0,
+                    "destructiblesHits": 0,
+                    "capturingBase": null,
+                    "damageAssistedStun": 0,
+                    "rolloutsCount": 1,
+                    "tkills": 0,
+                    "potentialDamageReceived": 2940,
+                    "damageDealt": 1641,
+                    "destructiblesNumDestroyed": 0,
+                    "damageAssistedSmoke": 0,
+                    "destructiblesDamageDealt": 0,
+                    "flagActions": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "winPoints": 0,
+                    "explosionHits": 0,
+                    "team": 1,
+                    "xp/attack": 0,
+                    "tdestroyedModules": 0,
+                    "stunNum": 0,
+                    "damageAssistedInspire": 0,
+                    "achievementFreeXP": 0,
+                    "directHits": 6
+                }
+            ],
+            "10335961": [
+                {
+                    "spotted": 4,
+                    "vehicleNumCaptured": 0,
+                    "damageAssistedTrack": 0,
+                    "xpPenalty": 0,
+                    "directTeamHits": 0,
+                    "damageReceived": 1650,
+                    "piercingsReceived": 5,
+                    "sniperDamageDealt": 0,
+                    "piercingEnemyHits": 6,
+                    "damageAssistedRadio": 537,
+                    "mileage": 600,
+                    "stunDuration": 0.0,
+                    "piercings": 6,
+                    "damageBlockedByArmor": 320,
+                    "xp": 365,
+                    "droppedCapturePoints": 0,
+                    "killerID": 10335969,
+                    "xp/other": 0,
+                    "index": 0,
+                    "directHitsReceived": 8,
+                    "damageReceivedFromInvisibles": 0,
+                    "explosionHitsReceived": 0,
+                    "achievementXP": 0,
+                    "deathReason": 0,
+                    "capturePoints": 0,
+                    "numRecovered": 0,
+                    "directEnemyHits": 6,
+                    "maxHealth": 1650,
+                    "damageEventList": null,
+                    "health": 0,
+                    "stopRespawn": false,
+                    "achievementCredits": 0,
+                    "achievements": [
+                        521
+                    ],
+                    "xp/assist": 0,
+                    "shots": 8,
+                    "kills": 0,
+                    "deathCount": 1,
+                    "flagCapture": 0,
+                    "damaged": 3,
+                    "tdamageDealt": 0,
+                    "resourceAbsorbed": 0,
+                    "credits": 22954,
+                    "accountDBID": 1472860,
+                    "lifeTime": 257,
+                    "noDamageDirectHitsReceived": 3,
+                    "numDefended": 0,
+                    "stunned": 0,
+                    "equipmentDamageDealt": 0,
+                    "isTeamKiller": false,
+                    "typeCompDescr": 5249,
+                    "soloFlagCapture": 0,
+                    "destructiblesHits": 0,
+                    "capturingBase": null,
+                    "damageAssistedStun": 0,
+                    "rolloutsCount": 1,
+                    "tkills": 0,
+                    "potentialDamageReceived": 2160,
+                    "damageDealt": 2345,
+                    "destructiblesNumDestroyed": 0,
+                    "damageAssistedSmoke": 0,
+                    "destructiblesDamageDealt": 0,
+                    "flagActions": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "winPoints": 0,
+                    "explosionHits": 0,
+                    "team": 1,
+                    "xp/attack": 0,
+                    "tdestroyedModules": 0,
+                    "stunNum": 0,
+                    "damageAssistedInspire": 0,
+                    "achievementFreeXP": 0,
+                    "directHits": 6
+                }
+            ],
+            "10335962": [
+                {
+                    "spotted": 0,
+                    "vehicleNumCaptured": 0,
+                    "damageAssistedTrack": 0,
+                    "xpPenalty": 0,
+                    "directTeamHits": 0,
+                    "damageReceived": 1850,
+                    "piercingsReceived": 5,
+                    "sniperDamageDealt": 162,
+                    "piercingEnemyHits": 5,
+                    "damageAssistedRadio": 140,
+                    "mileage": 1422,
+                    "stunDuration": 0.0,
+                    "piercings": 5,
+                    "damageBlockedByArmor": 0,
+                    "xp": 646,
+                    "droppedCapturePoints": 0,
+                    "killerID": 10335941,
+                    "xp/other": 0,
+                    "index": 0,
+                    "directHitsReceived": 5,
+                    "damageReceivedFromInvisibles": 978,
+                    "explosionHitsReceived": 0,
+                    "achievementXP": 0,
+                    "deathReason": 0,
+                    "capturePoints": 0,
+                    "numRecovered": 0,
+                    "directEnemyHits": 6,
+                    "maxHealth": 1850,
+                    "damageEventList": null,
+                    "health": 0,
+                    "stopRespawn": false,
+                    "achievementCredits": 0,
+                    "achievements": [],
+                    "xp/assist": 0,
+                    "shots": 7,
+                    "kills": 1,
+                    "deathCount": 1,
+                    "flagCapture": 0,
+                    "damaged": 3,
+                    "tdamageDealt": 0,
+                    "resourceAbsorbed": 0,
+                    "credits": 20882,
+                    "accountDBID": 25709405,
+                    "lifeTime": 299,
+                    "noDamageDirectHitsReceived": 0,
+                    "numDefended": 0,
+                    "stunned": 0,
+                    "equipmentDamageDealt": 0,
+                    "isTeamKiller": false,
+                    "typeCompDescr": 3489,
+                    "soloFlagCapture": 0,
+                    "destructiblesHits": 0,
+                    "capturingBase": null,
+                    "damageAssistedStun": 0,
+                    "rolloutsCount": 1,
+                    "tkills": 0,
+                    "potentialDamageReceived": 2000,
+                    "damageDealt": 1661,
+                    "destructiblesNumDestroyed": 0,
+                    "damageAssistedSmoke": 0,
+                    "destructiblesDamageDealt": 0,
+                    "flagActions": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "winPoints": 0,
+                    "explosionHits": 0,
+                    "team": 2,
+                    "xp/attack": 0,
+                    "tdestroyedModules": 0,
+                    "stunNum": 0,
+                    "damageAssistedInspire": 0,
+                    "achievementFreeXP": 0,
+                    "directHits": 6
+                }
+            ],
+            "10335963": [
+                {
+                    "spotted": 0,
+                    "vehicleNumCaptured": 0,
+                    "damageAssistedTrack": 0,
+                    "xpPenalty": 0,
+                    "directTeamHits": 1,
+                    "damageReceived": 1200,
+                    "piercingsReceived": 3,
+                    "sniperDamageDealt": 0,
+                    "piercingEnemyHits": 0,
+                    "damageAssistedRadio": 0,
+                    "mileage": 313,
+                    "stunDuration": 0.0,
+                    "piercings": 0,
+                    "damageBlockedByArmor": 610,
+                    "xp": 128,
+                    "droppedCapturePoints": 0,
+                    "killerID": 10335962,
+                    "xp/other": 0,
+                    "index": 0,
+                    "directHitsReceived": 5,
+                    "damageReceivedFromInvisibles": 1200,
+                    "explosionHitsReceived": 0,
+                    "achievementXP": 0,
+                    "deathReason": 0,
+                    "capturePoints": 0,
+                    "numRecovered": 0,
+                    "directEnemyHits": 0,
+                    "maxHealth": 1200,
+                    "damageEventList": null,
+                    "health": 0,
+                    "stopRespawn": false,
+                    "achievementCredits": 0,
+                    "achievements": [],
+                    "xp/assist": 0,
+                    "shots": 1,
+                    "kills": 0,
+                    "deathCount": 1,
+                    "flagCapture": 0,
+                    "damaged": 0,
+                    "tdamageDealt": 0,
+                    "resourceAbsorbed": 0,
+                    "credits": 3982,
+                    "accountDBID": 22032863,
+                    "lifeTime": 110,
+                    "noDamageDirectHitsReceived": 2,
+                    "numDefended": 0,
+                    "stunned": 0,
+                    "equipmentDamageDealt": 0,
+                    "isTeamKiller": false,
+                    "typeCompDescr": 7425,
+                    "soloFlagCapture": 0,
+                    "destructiblesHits": 0,
+                    "capturingBase": null,
+                    "damageAssistedStun": 0,
+                    "rolloutsCount": 1,
+                    "tkills": 0,
+                    "potentialDamageReceived": 2120,
+                    "damageDealt": 0,
+                    "destructiblesNumDestroyed": 0,
+                    "damageAssistedSmoke": 0,
+                    "destructiblesDamageDealt": 0,
+                    "flagActions": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "winPoints": 0,
+                    "explosionHits": 0,
+                    "team": 1,
+                    "xp/attack": 0,
+                    "tdestroyedModules": 0,
+                    "stunNum": 0,
+                    "damageAssistedInspire": 0,
+                    "achievementFreeXP": 0,
+                    "directHits": 1
+                }
+            ],
+            "10335964": [
+                {
+                    "spotted": 1,
+                    "vehicleNumCaptured": 0,
+                    "damageAssistedTrack": 0,
+                    "xpPenalty": 0,
+                    "directTeamHits": 0,
+                    "damageReceived": 0,
+                    "piercingsReceived": 0,
+                    "sniperDamageDealt": 1295,
+                    "piercingEnemyHits": 3,
+                    "damageAssistedRadio": 377,
+                    "mileage": 1304,
+                    "stunDuration": 0.0,
+                    "piercings": 3,
+                    "damageBlockedByArmor": 0,
+                    "xp": 605,
+                    "droppedCapturePoints": 0,
+                    "killerID": 0,
+                    "xp/other": 0,
+                    "index": 0,
+                    "directHitsReceived": 0,
+                    "damageReceivedFromInvisibles": 0,
+                    "explosionHitsReceived": 0,
+                    "achievementXP": 0,
+                    "deathReason": -1,
+                    "capturePoints": 0,
+                    "numRecovered": 0,
+                    "directEnemyHits": 10,
+                    "maxHealth": 1500,
+                    "damageEventList": null,
+                    "health": 1500,
+                    "stopRespawn": false,
+                    "achievementCredits": 0,
+                    "achievements": [],
+                    "xp/assist": 0,
+                    "shots": 14,
+                    "kills": 0,
+                    "deathCount": 0,
+                    "flagCapture": 0,
+                    "damaged": 2,
+                    "tdamageDealt": 0,
+                    "resourceAbsorbed": 0,
+                    "credits": 34804,
+                    "accountDBID": 297572,
+                    "lifeTime": 404,
+                    "noDamageDirectHitsReceived": 0,
+                    "numDefended": 0,
+                    "stunned": 0,
+                    "equipmentDamageDealt": 0,
+                    "isTeamKiller": false,
+                    "typeCompDescr": 2849,
+                    "soloFlagCapture": 0,
+                    "destructiblesHits": 0,
+                    "capturingBase": null,
+                    "damageAssistedStun": 0,
+                    "rolloutsCount": 1,
+                    "tkills": 0,
+                    "potentialDamageReceived": 0,
+                    "damageDealt": 1295,
+                    "destructiblesNumDestroyed": 0,
+                    "damageAssistedSmoke": 0,
+                    "destructiblesDamageDealt": 0,
+                    "flagActions": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "winPoints": 0,
+                    "explosionHits": 0,
+                    "team": 2,
+                    "xp/attack": 0,
+                    "tdestroyedModules": 0,
+                    "stunNum": 0,
+                    "damageAssistedInspire": 0,
+                    "achievementFreeXP": 0,
+                    "directHits": 10
+                }
+            ],
+            "10335965": [
+                {
+                    "spotted": 1,
+                    "vehicleNumCaptured": 0,
+                    "damageAssistedTrack": 0,
+                    "xpPenalty": 0,
+                    "directTeamHits": 0,
+                    "damageReceived": 2000,
+                    "piercingsReceived": 6,
+                    "sniperDamageDealt": 0,
+                    "piercingEnemyHits": 3,
+                    "damageAssistedRadio": 96,
+                    "mileage": 2415,
+                    "stunDuration": 0.0,
+                    "piercings": 3,
+                    "damageBlockedByArmor": 0,
+                    "xp": 258,
+                    "droppedCapturePoints": 0,
+                    "killerID": 10335956,
+                    "xp/other": 0,
+                    "index": 0,
+                    "directHitsReceived": 7,
+                    "damageReceivedFromInvisibles": 0,
+                    "explosionHitsReceived": 1,
+                    "achievementXP": 0,
+                    "deathReason": 0,
+                    "capturePoints": 0,
+                    "numRecovered": 0,
+                    "directEnemyHits": 5,
+                    "maxHealth": 2000,
+                    "damageEventList": null,
+                    "health": 0,
+                    "stopRespawn": false,
+                    "achievementCredits": 0,
+                    "achievements": [],
+                    "xp/assist": 0,
+                    "shots": 8,
+                    "kills": 0,
+                    "deathCount": 1,
+                    "flagCapture": 0,
+                    "damaged": 2,
+                    "tdamageDealt": 0,
+                    "resourceAbsorbed": 0,
+                    "credits": 15748,
+                    "accountDBID": 67432,
+                    "lifeTime": 355,
+                    "noDamageDirectHitsReceived": 1,
+                    "numDefended": 0,
+                    "stunned": 0,
+                    "equipmentDamageDealt": 0,
+                    "isTeamKiller": false,
+                    "typeCompDescr": 2977,
+                    "soloFlagCapture": 0,
+                    "destructiblesHits": 0,
+                    "capturingBase": null,
+                    "damageAssistedStun": 0,
+                    "rolloutsCount": 1,
+                    "tkills": 0,
+                    "potentialDamageReceived": 1990,
+                    "damageDealt": 1460,
+                    "destructiblesNumDestroyed": 0,
+                    "damageAssistedSmoke": 0,
+                    "destructiblesDamageDealt": 0,
+                    "flagActions": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "winPoints": 0,
+                    "explosionHits": 0,
+                    "team": 1,
+                    "xp/attack": 0,
+                    "tdestroyedModules": 0,
+                    "stunNum": 0,
+                    "damageAssistedInspire": 0,
+                    "achievementFreeXP": 0,
+                    "directHits": 5
+                }
+            ],
+            "10335966": [
+                {
+                    "spotted": 1,
+                    "vehicleNumCaptured": 0,
+                    "damageAssistedTrack": 0,
+                    "xpPenalty": 0,
+                    "directTeamHits": 0,
+                    "damageReceived": 1000,
+                    "piercingsReceived": 3,
+                    "sniperDamageDealt": 0,
+                    "piercingEnemyHits": 0,
+                    "damageAssistedRadio": 439,
+                    "mileage": 567,
+                    "stunDuration": 0.0,
+                    "piercings": 0,
+                    "damageBlockedByArmor": 0,
+                    "xp": 144,
+                    "droppedCapturePoints": 0,
+                    "killerID": 10335951,
+                    "xp/other": 0,
+                    "index": 0,
+                    "directHitsReceived": 4,
+                    "damageReceivedFromInvisibles": 722,
+                    "explosionHitsReceived": 2,
+                    "achievementXP": 0,
+                    "deathReason": 0,
+                    "capturePoints": 0,
+                    "numRecovered": 0,
+                    "directEnemyHits": 0,
+                    "maxHealth": 1000,
+                    "damageEventList": null,
+                    "health": 0,
+                    "stopRespawn": false,
+                    "achievementCredits": 0,
+                    "achievements": [],
+                    "xp/assist": 0,
+                    "shots": 0,
+                    "kills": 0,
+                    "deathCount": 1,
+                    "flagCapture": 0,
+                    "damaged": 0,
+                    "tdamageDealt": 0,
+                    "resourceAbsorbed": 0,
+                    "credits": 5369,
+                    "accountDBID": 6298090,
+                    "lifeTime": 70,
+                    "noDamageDirectHitsReceived": 0,
+                    "numDefended": 0,
+                    "stunned": 0,
+                    "equipmentDamageDealt": 0,
+                    "isTeamKiller": false,
+                    "typeCompDescr": 17953,
+                    "soloFlagCapture": 0,
+                    "destructiblesHits": 0,
+                    "capturingBase": null,
+                    "damageAssistedStun": 0,
+                    "rolloutsCount": 1,
+                    "tkills": 0,
+                    "potentialDamageReceived": 0,
+                    "damageDealt": 0,
+                    "destructiblesNumDestroyed": 0,
+                    "damageAssistedSmoke": 0,
+                    "destructiblesDamageDealt": 0,
+                    "flagActions": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "winPoints": 0,
+                    "explosionHits": 0,
+                    "team": 1,
+                    "xp/attack": 0,
+                    "tdestroyedModules": 0,
+                    "stunNum": 0,
+                    "damageAssistedInspire": 0,
+                    "achievementFreeXP": 0,
+                    "directHits": 0
+                }
+            ],
+            "10335967": [
+                {
+                    "spotted": 0,
+                    "vehicleNumCaptured": 0,
+                    "damageAssistedTrack": 0,
+                    "xpPenalty": 0,
+                    "directTeamHits": 0,
+                    "damageReceived": 0,
+                    "piercingsReceived": 0,
+                    "sniperDamageDealt": 910,
+                    "piercingEnemyHits": 2,
+                    "damageAssistedRadio": 0,
+                    "mileage": 2100,
+                    "stunDuration": 0.0,
+                    "piercings": 2,
+                    "damageBlockedByArmor": 0,
+                    "xp": 588,
+                    "droppedCapturePoints": 0,
+                    "killerID": 0,
+                    "xp/other": 0,
+                    "index": 0,
+                    "directHitsReceived": 0,
+                    "damageReceivedFromInvisibles": 0,
+                    "explosionHitsReceived": 0,
+                    "achievementXP": 0,
+                    "deathReason": -1,
+                    "capturePoints": 0,
+                    "numRecovered": 0,
+                    "directEnemyHits": 2,
+                    "maxHealth": 1200,
+                    "damageEventList": null,
+                    "health": 1200,
+                    "stopRespawn": false,
+                    "achievementCredits": 0,
+                    "achievements": [],
+                    "xp/assist": 0,
+                    "shots": 3,
+                    "kills": 2,
+                    "deathCount": 0,
+                    "flagCapture": 0,
+                    "damaged": 2,
+                    "tdamageDealt": 0,
+                    "resourceAbsorbed": 0,
+                    "credits": 12248,
+                    "accountDBID": 4134130,
+                    "lifeTime": 404,
+                    "noDamageDirectHitsReceived": 0,
+                    "numDefended": 0,
+                    "stunned": 0,
+                    "equipmentDamageDealt": 0,
+                    "isTeamKiller": false,
+                    "typeCompDescr": 7425,
+                    "soloFlagCapture": 0,
+                    "destructiblesHits": 0,
+                    "capturingBase": null,
+                    "damageAssistedStun": 0,
+                    "rolloutsCount": 1,
+                    "tkills": 0,
+                    "potentialDamageReceived": 0,
+                    "damageDealt": 910,
+                    "destructiblesNumDestroyed": 0,
+                    "damageAssistedSmoke": 0,
+                    "destructiblesDamageDealt": 0,
+                    "flagActions": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "winPoints": 0,
+                    "explosionHits": 0,
+                    "team": 2,
+                    "xp/attack": 0,
+                    "tdestroyedModules": 0,
+                    "stunNum": 0,
+                    "damageAssistedInspire": 0,
+                    "achievementFreeXP": 0,
+                    "directHits": 2
+                }
+            ],
+            "10335968": [
+                {
+                    "spotted": 1,
+                    "vehicleNumCaptured": 0,
+                    "damageAssistedTrack": 0,
+                    "xpPenalty": 0,
+                    "directTeamHits": 0,
+                    "damageReceived": 1500,
+                    "piercingsReceived": 4,
+                    "sniperDamageDealt": 0,
+                    "piercingEnemyHits": 2,
+                    "damageAssistedRadio": 96,
+                    "mileage": 2278,
+                    "stunDuration": 0.0,
+                    "piercings": 2,
+                    "damageBlockedByArmor": 390,
+                    "xp": 267,
+                    "droppedCapturePoints": 0,
+                    "killerID": 10335967,
+                    "xp/other": 0,
+                    "index": 0,
+                    "directHitsReceived": 5,
+                    "damageReceivedFromInvisibles": 297,
+                    "explosionHitsReceived": 0,
+                    "achievementXP": 0,
+                    "deathReason": 0,
+                    "capturePoints": 0,
+                    "numRecovered": 0,
+                    "directEnemyHits": 5,
+                    "maxHealth": 1500,
+                    "damageEventList": null,
+                    "health": 0,
+                    "stopRespawn": false,
+                    "achievementCredits": 0,
+                    "achievements": [],
+                    "xp/assist": 0,
+                    "shots": 5,
+                    "kills": 0,
+                    "deathCount": 1,
+                    "flagCapture": 0,
+                    "damaged": 3,
+                    "tdamageDealt": 0,
+                    "resourceAbsorbed": 0,
+                    "credits": 17435,
+                    "accountDBID": 6458259,
+                    "lifeTime": 372,
+                    "noDamageDirectHitsReceived": 1,
+                    "numDefended": 0,
+                    "stunned": 0,
+                    "equipmentDamageDealt": 0,
+                    "isTeamKiller": false,
+                    "typeCompDescr": 59169,
+                    "soloFlagCapture": 0,
+                    "destructiblesHits": 0,
+                    "capturingBase": null,
+                    "damageAssistedStun": 0,
+                    "rolloutsCount": 1,
+                    "tkills": 0,
+                    "potentialDamageReceived": 2310,
+                    "damageDealt": 489,
+                    "destructiblesNumDestroyed": 0,
+                    "damageAssistedSmoke": 0,
+                    "destructiblesDamageDealt": 0,
+                    "flagActions": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "winPoints": 0,
+                    "explosionHits": 0,
+                    "team": 1,
+                    "xp/attack": 0,
+                    "tdestroyedModules": 0,
+                    "stunNum": 0,
+                    "damageAssistedInspire": 0,
+                    "achievementFreeXP": 0,
+                    "directHits": 5
+                }
+            ],
+            "10335969": [
+                {
+                    "spotted": 0,
+                    "vehicleNumCaptured": 0,
+                    "damageAssistedTrack": 0,
+                    "xpPenalty": 0,
+                    "directTeamHits": 0,
+                    "damageReceived": 1650,
+                    "piercingsReceived": 5,
+                    "sniperDamageDealt": 352,
+                    "piercingEnemyHits": 3,
+                    "damageAssistedRadio": 0,
+                    "mileage": 1676,
+                    "stunDuration": 0.0,
+                    "piercings": 3,
+                    "damageBlockedByArmor": 0,
+                    "xp": 523,
+                    "droppedCapturePoints": 0,
+                    "killerID": 10335941,
+                    "xp/other": 0,
+                    "index": 0,
+                    "directHitsReceived": 8,
+                    "damageReceivedFromInvisibles": 134,
+                    "explosionHitsReceived": 0,
+                    "achievementXP": 0,
+                    "deathReason": 0,
+                    "capturePoints": 0,
+                    "numRecovered": 0,
+                    "directEnemyHits": 4,
+                    "maxHealth": 1650,
+                    "damageEventList": null,
+                    "health": 0,
+                    "stopRespawn": false,
+                    "achievementCredits": 0,
+                    "achievements": [],
+                    "xp/assist": 0,
+                    "shots": 4,
+                    "kills": 1,
+                    "deathCount": 1,
+                    "flagCapture": 0,
+                    "damaged": 2,
+                    "tdamageDealt": 0,
+                    "resourceAbsorbed": 0,
+                    "credits": 15703,
+                    "accountDBID": 24501610,
+                    "lifeTime": 264,
+                    "noDamageDirectHitsReceived": 3,
+                    "numDefended": 0,
+                    "stunned": 0,
+                    "equipmentDamageDealt": 0,
+                    "isTeamKiller": false,
+                    "typeCompDescr": 7937,
+                    "soloFlagCapture": 0,
+                    "destructiblesHits": 0,
+                    "capturingBase": null,
+                    "damageAssistedStun": 0,
+                    "rolloutsCount": 1,
+                    "tkills": 0,
+                    "potentialDamageReceived": 2050,
+                    "damageDealt": 903,
+                    "destructiblesNumDestroyed": 0,
+                    "damageAssistedSmoke": 0,
+                    "destructiblesDamageDealt": 0,
+                    "flagActions": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "winPoints": 0,
+                    "explosionHits": 0,
+                    "team": 2,
+                    "xp/attack": 0,
+                    "tdestroyedModules": 0,
+                    "stunNum": 0,
+                    "damageAssistedInspire": 0,
+                    "achievementFreeXP": 0,
+                    "directHits": 4
+                }
+            ],
+            "10335970": [
+                {
+                    "spotted": 0,
+                    "vehicleNumCaptured": 0,
+                    "damageAssistedTrack": 0,
+                    "xpPenalty": 0,
+                    "directTeamHits": 0,
+                    "damageReceived": 2000,
+                    "piercingsReceived": 3,
+                    "sniperDamageDealt": 0,
+                    "piercingEnemyHits": 0,
+                    "damageAssistedRadio": 0,
+                    "mileage": 22,
+                    "stunDuration": 0.0,
+                    "piercings": 0,
+                    "damageBlockedByArmor": 3150,
+                    "xp": 128,
+                    "droppedCapturePoints": 0,
+                    "killerID": 10335959,
+                    "xp/other": 0,
+                    "index": 0,
+                    "directHitsReceived": 18,
+                    "damageReceivedFromInvisibles": 2000,
+                    "explosionHitsReceived": 4,
+                    "achievementXP": 0,
+                    "deathReason": 0,
+                    "capturePoints": 0,
+                    "numRecovered": 0,
+                    "directEnemyHits": 0,
+                    "maxHealth": 2000,
+                    "damageEventList": null,
+                    "health": -3,
+                    "stopRespawn": false,
+                    "achievementCredits": 0,
+                    "achievements": [],
+                    "xp/assist": 0,
+                    "shots": 0,
+                    "kills": 0,
+                    "deathCount": 1,
+                    "flagCapture": 0,
+                    "damaged": 0,
+                    "tdamageDealt": 0,
+                    "resourceAbsorbed": 0,
+                    "credits": 4375,
+                    "accountDBID": 19925886,
+                    "lifeTime": 254,
+                    "noDamageDirectHitsReceived": 11,
+                    "numDefended": 0,
+                    "stunned": 0,
+                    "equipmentDamageDealt": 0,
+                    "isTeamKiller": false,
+                    "typeCompDescr": 13089,
+                    "soloFlagCapture": 0,
+                    "destructiblesHits": 0,
+                    "capturingBase": null,
+                    "damageAssistedStun": 0,
+                    "rolloutsCount": 1,
+                    "tkills": 0,
+                    "potentialDamageReceived": 3950,
+                    "damageDealt": 0,
+                    "destructiblesNumDestroyed": 0,
+                    "damageAssistedSmoke": 0,
+                    "destructiblesDamageDealt": 0,
+                    "flagActions": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "winPoints": 0,
+                    "explosionHits": 0,
+                    "team": 1,
+                    "xp/attack": 0,
+                    "tdestroyedModules": 0,
+                    "stunNum": 0,
+                    "damageAssistedInspire": 0,
+                    "achievementFreeXP": 0,
+                    "directHits": 0
+                }
+            ]
+        },
+        "avatars": {
+            "185603": {
+                "avatarKills": 0,
+                "playerRank": 0,
+                "basePointsDiff": 0,
+                "hasBattlePass": false,
+                "avatarDamaged": 0,
+                "totalDamaged": 4,
+                "avatarDamageDealt": 0,
+                "sumPoints": 0,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    0
+                ],
+                "badges": [
+                    [],
+                    [
+                        100
+                    ]
+                ]
+            },
+            "3654409": {
+                "avatarKills": 0,
+                "playerRank": 0,
+                "basePointsDiff": 0,
+                "hasBattlePass": false,
+                "avatarDamaged": 0,
+                "totalDamaged": 0,
+                "avatarDamageDealt": 0,
+                "sumPoints": 0,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    0
+                ],
+                "badges": [
+                    [],
+                    [
+                        35
+                    ]
+                ]
+            },
+            "39737747": {
+                "avatarKills": 0,
+                "playerRank": 0,
+                "basePointsDiff": 0,
+                "hasBattlePass": false,
+                "avatarDamaged": 0,
+                "totalDamaged": 3,
+                "avatarDamageDealt": 0,
+                "sumPoints": 0,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    0
+                ],
+                "badges": [
+                    [
+                        32
+                    ],
+                    [
+                        100
+                    ]
+                ]
+            },
+            "31775636": {
+                "avatarKills": 0,
+                "playerRank": 0,
+                "basePointsDiff": 0,
+                "hasBattlePass": false,
+                "avatarDamaged": 0,
+                "totalDamaged": 3,
+                "avatarDamageDealt": 0,
+                "sumPoints": 0,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    0
+                ],
+                "badges": [
+                    [
+                        100
+                    ],
+                    [
+                        42
+                    ]
+                ]
+            },
+            "66270485": {
+                "avatarKills": 0,
+                "playerRank": 0,
+                "basePointsDiff": 0,
+                "hasBattlePass": false,
+                "avatarDamaged": 0,
+                "totalDamaged": 6,
+                "avatarDamageDealt": 0,
+                "sumPoints": 0,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    0
+                ],
+                "badges": [
+                    [
+                        10
+                    ],
+                    [
+                        40
+                    ]
+                ]
+            },
+            "1886871": {
+                "avatarKills": 0,
+                "playerRank": 0,
+                "basePointsDiff": 0,
+                "hasBattlePass": false,
+                "avatarDamaged": 0,
+                "totalDamaged": 1,
+                "avatarDamageDealt": 0,
+                "sumPoints": 0,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    0
+                ],
+                "badges": [
+                    [],
+                    [
+                        20
+                    ]
+                ]
+            },
+            "319812": {
+                "avatarKills": 0,
+                "playerRank": 0,
+                "basePointsDiff": 0,
+                "hasBattlePass": false,
+                "avatarDamaged": 0,
+                "totalDamaged": 4,
+                "avatarDamageDealt": 0,
+                "sumPoints": 0,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    0
+                ],
+                "badges": [
+                    [
+                        91
+                    ],
+                    [
+                        21
+                    ]
+                ]
+            },
+            "100918171": {
+                "avatarKills": 0,
+                "playerRank": 0,
+                "basePointsDiff": 0,
+                "hasBattlePass": false,
+                "avatarDamaged": 0,
+                "totalDamaged": 0,
+                "avatarDamageDealt": 0,
+                "sumPoints": 0,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    0
+                ],
+                "badges": [
+                    [
+                        78
+                    ],
+                    [
+                        64
+                    ]
+                ]
+            },
+            "24993819": {
+                "avatarKills": 0,
+                "playerRank": 0,
+                "basePointsDiff": 0,
+                "hasBattlePass": false,
+                "avatarDamaged": 0,
+                "totalDamaged": 1,
+                "avatarDamageDealt": 0,
+                "sumPoints": 0,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    0
+                ],
+                "badges": [
+                    [],
+                    [
+                        27
+                    ]
+                ]
+            },
+            "14452396": {
+                "avatarKills": 0,
+                "playerRank": 0,
+                "basePointsDiff": 0,
+                "hasBattlePass": false,
+                "avatarDamaged": 0,
+                "totalDamaged": 4,
+                "avatarDamageDealt": 0,
+                "sumPoints": 0,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    0
+                ],
+                "badges": [
+                    [],
+                    [
+                        52
+                    ]
+                ]
+            },
+            "27953076": {
+                "avatarKills": 0,
+                "playerRank": 0,
+                "basePointsDiff": 0,
+                "hasBattlePass": false,
+                "avatarDamaged": 0,
+                "totalDamaged": 6,
+                "avatarDamageDealt": 0,
+                "sumPoints": 0,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    0
+                ],
+                "badges": [
+                    [
+                        65
+                    ],
+                    [
+                        31
+                    ]
+                ]
+            },
+            "20346294": {
+                "avatarKills": 0,
+                "playerRank": 0,
+                "basePointsDiff": 0,
+                "hasBattlePass": false,
+                "avatarDamaged": 0,
+                "totalDamaged": 4,
+                "avatarDamageDealt": 0,
+                "sumPoints": 0,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    0
+                ],
+                "badges": [
+                    [
+                        86
+                    ],
+                    [
+                        18
+                    ]
+                ]
+            },
+            "8657721": {
+                "avatarKills": 0,
+                "playerRank": 0,
+                "basePointsDiff": 0,
+                "hasBattlePass": false,
+                "avatarDamaged": 0,
+                "totalDamaged": 1,
+                "avatarDamageDealt": 0,
+                "sumPoints": 0,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    0
+                ],
+                "badges": [
+                    [
+                        38
+                    ],
+                    [
+                        73
+                    ]
+                ]
+            },
+            "2369731": {
+                "avatarKills": 0,
+                "playerRank": 0,
+                "basePointsDiff": 0,
+                "hasBattlePass": false,
+                "avatarDamaged": 0,
+                "totalDamaged": 1,
+                "avatarDamageDealt": 0,
+                "sumPoints": 0,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    0
+                ],
+                "badges": [
+                    [
+                        12
+                    ],
+                    [
+                        19
+                    ]
+                ]
+            },
+            "41827396": {
+                "avatarKills": 0,
+                "playerRank": 0,
+                "basePointsDiff": 0,
+                "hasBattlePass": false,
+                "avatarDamaged": 0,
+                "totalDamaged": 3,
+                "avatarDamageDealt": 0,
+                "sumPoints": 0,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    0
+                ],
+                "badges": [
+                    [
+                        100
+                    ],
+                    [
+                        63
+                    ]
+                ]
+            },
+            "118809929": {
+                "avatarKills": 0,
+                "playerRank": 0,
+                "basePointsDiff": 0,
+                "hasBattlePass": false,
+                "avatarDamaged": 0,
+                "totalDamaged": 3,
+                "avatarDamageDealt": 0,
+                "sumPoints": 0,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    0
+                ],
+                "badges": [
+                    [],
+                    [
+                        65
+                    ]
+                ]
+            },
+            "2967889": {
+                "avatarKills": 0,
+                "playerRank": 0,
+                "basePointsDiff": 0,
+                "hasBattlePass": false,
+                "avatarDamaged": 0,
+                "totalDamaged": 5,
+                "avatarDamageDealt": 0,
+                "sumPoints": 0,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    0
+                ],
+                "badges": [
+                    [
+                        12
+                    ],
+                    [
+                        46
+                    ]
+                ]
+            },
+            "30104660": {
+                "avatarKills": 0,
+                "playerRank": 0,
+                "basePointsDiff": 0,
+                "hasBattlePass": false,
+                "avatarDamaged": 0,
+                "totalDamaged": 0,
+                "avatarDamageDealt": 0,
+                "sumPoints": 0,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    0
+                ],
+                "badges": [
+                    [
+                        12
+                    ],
+                    [
+                        4
+                    ]
+                ]
+            },
+            "34448983": {
+                "avatarKills": 0,
+                "playerRank": 0,
+                "basePointsDiff": 0,
+                "hasBattlePass": false,
+                "avatarDamaged": 0,
+                "totalDamaged": 4,
+                "avatarDamageDealt": 0,
+                "sumPoints": 0,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    0
+                ],
+                "badges": [
+                    [],
+                    [
+                        8
+                    ]
+                ]
+            },
+            "1658584": {
+                "avatarKills": 0,
+                "playerRank": 0,
+                "basePointsDiff": 0,
+                "hasBattlePass": false,
+                "avatarDamaged": 0,
+                "totalDamaged": 3,
+                "avatarDamageDealt": 0,
+                "sumPoints": 0,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    0
+                ],
+                "badges": [
+                    [],
+                    [
+                        43
+                    ]
+                ]
+            },
+            "1472860": {
+                "avatarKills": 0,
+                "playerRank": 0,
+                "basePointsDiff": 0,
+                "hasBattlePass": false,
+                "avatarDamaged": 0,
+                "totalDamaged": 3,
+                "avatarDamageDealt": 0,
+                "sumPoints": 0,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    0
+                ],
+                "badges": [
+                    [],
+                    [
+                        100
+                    ]
+                ]
+            },
+            "25709405": {
+                "avatarKills": 0,
+                "playerRank": 0,
+                "basePointsDiff": 0,
+                "hasBattlePass": false,
+                "avatarDamaged": 0,
+                "totalDamaged": 3,
+                "avatarDamageDealt": 0,
+                "sumPoints": 0,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    0
+                ],
+                "badges": [
+                    [],
+                    [
+                        53
+                    ]
+                ]
+            },
+            "22032863": {
+                "avatarKills": 0,
+                "playerRank": 0,
+                "basePointsDiff": 0,
+                "hasBattlePass": false,
+                "avatarDamaged": 0,
+                "totalDamaged": 0,
+                "avatarDamageDealt": 0,
+                "sumPoints": 0,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    0
+                ],
+                "badges": [
+                    [],
+                    [
+                        40
+                    ]
+                ]
+            },
+            "297572": {
+                "avatarKills": 0,
+                "playerRank": 0,
+                "basePointsDiff": 0,
+                "hasBattlePass": false,
+                "avatarDamaged": 0,
+                "totalDamaged": 2,
+                "avatarDamageDealt": 0,
+                "sumPoints": 0,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    0
+                ],
+                "badges": [
+                    [
+                        79
+                    ],
+                    [
+                        38
+                    ]
+                ]
+            },
+            "67432": {
+                "avatarKills": 0,
+                "playerRank": 0,
+                "basePointsDiff": 0,
+                "hasBattlePass": false,
+                "avatarDamaged": 0,
+                "totalDamaged": 2,
+                "avatarDamageDealt": 0,
+                "sumPoints": 0,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    0
+                ],
+                "badges": [
+                    [
+                        59,
+                        57
+                    ],
+                    [
+                        24
+                    ]
+                ]
+            },
+            "24501610": {
+                "avatarKills": 0,
+                "playerRank": 0,
+                "basePointsDiff": 0,
+                "hasBattlePass": false,
+                "avatarDamaged": 0,
+                "totalDamaged": 2,
+                "avatarDamageDealt": 0,
+                "sumPoints": 0,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    0
+                ],
+                "badges": [
+                    [
+                        10
+                    ],
+                    [
+                        16
+                    ]
+                ]
+            },
+            "4134130": {
+                "avatarKills": 0,
+                "playerRank": 0,
+                "basePointsDiff": 0,
+                "hasBattlePass": false,
+                "avatarDamaged": 0,
+                "totalDamaged": 2,
+                "avatarDamageDealt": 0,
+                "sumPoints": 0,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    0
+                ],
+                "badges": [
+                    [],
+                    [
+                        41
+                    ]
+                ]
+            },
+            "6458259": {
+                "avatarKills": 0,
+                "playerRank": 0,
+                "basePointsDiff": 0,
+                "hasBattlePass": false,
+                "avatarDamaged": 0,
+                "totalDamaged": 3,
+                "avatarDamageDealt": 0,
+                "sumPoints": 0,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    0
+                ],
+                "badges": [
+                    [],
+                    [
+                        18
+                    ]
+                ]
+            },
+            "6298090": {
+                "avatarKills": 0,
+                "playerRank": 0,
+                "basePointsDiff": 0,
+                "hasBattlePass": false,
+                "avatarDamaged": 0,
+                "totalDamaged": 0,
+                "avatarDamageDealt": 0,
+                "sumPoints": 0,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    0
+                ],
+                "badges": [
+                    [],
+                    [
+                        26
+                    ]
+                ]
+            },
+            "19925886": {
+                "avatarKills": 0,
+                "playerRank": 0,
+                "basePointsDiff": 0,
+                "hasBattlePass": false,
+                "avatarDamaged": 0,
+                "totalDamaged": 0,
+                "avatarDamageDealt": 0,
+                "sumPoints": 0,
+                "fairplayViolations": [
+                    0,
+                    0,
+                    4
+                ],
+                "badges": [
+                    [
+                        13
+                    ],
+                    [
+                        37
+                    ]
+                ]
+            }
+        },
+        "players": {
+            "185603": {
+                "name": "brotherhood",
+                "prebattleID": 0,
+                "igrType": 0,
+                "clanAbbrev": "L-S-I",
+                "team": 1,
+                "clanDBID": 480521,
+                "realName": "brotherhood"
+            },
+            "3654409": {
+                "name": "xxGallxx",
+                "prebattleID": 0,
+                "igrType": 0,
+                "clanAbbrev": "",
+                "team": 2,
+                "clanDBID": 0,
+                "realName": "xxGallxx"
+            },
+            "39737747": {
+                "name": "said3535",
+                "prebattleID": 0,
+                "igrType": 0,
+                "clanAbbrev": "",
+                "team": 1,
+                "clanDBID": 0,
+                "realName": "said3535"
+            },
+            "31775636": {
+                "name": "serega_w_tanks63",
+                "prebattleID": 0,
+                "igrType": 0,
+                "clanAbbrev": "",
+                "team": 2,
+                "clanDBID": 0,
+                "realName": "alekc_899"
+            },
+            "66270485": {
+                "name": "Rustam07101919",
+                "prebattleID": 0,
+                "igrType": 0,
+                "clanAbbrev": "KBO",
+                "team": 2,
+                "clanDBID": 105307,
+                "realName": "yumoldinov"
+            },
+            "1886871": {
+                "name": "KLOP111P",
+                "prebattleID": 0,
+                "igrType": 0,
+                "clanAbbrev": "",
+                "team": 1,
+                "clanDBID": 0,
+                "realName": "KLOP111P"
+            },
+            "319812": {
+                "name": "joi19871",
+                "prebattleID": 0,
+                "igrType": 0,
+                "clanAbbrev": "",
+                "team": 1,
+                "clanDBID": 0,
+                "realName": "joi19871"
+            },
+            "24993819": {
+                "name": "NHS_tnk",
+                "prebattleID": 0,
+                "igrType": 0,
+                "clanAbbrev": "",
+                "team": 2,
+                "clanDBID": 0,
+                "realName": "NHS_tnk"
+            },
+            "100918171": {
+                "name": "cereg_59",
+                "prebattleID": 0,
+                "igrType": 0,
+                "clanAbbrev": "MG_CA",
+                "team": 1,
+                "clanDBID": 151470,
+                "realName": "Bilous_Andrii"
+            },
+            "14452396": {
+                "name": "volf197201",
+                "prebattleID": 0,
+                "igrType": 0,
+                "clanAbbrev": "",
+                "team": 2,
+                "clanDBID": 0,
+                "realName": "volf197201"
+            },
+            "27953076": {
+                "name": "Alexrb31",
+                "prebattleID": 0,
+                "igrType": 0,
+                "clanAbbrev": "JARA_",
+                "team": 2,
+                "clanDBID": 531530,
+                "realName": "Alexrb31"
+            },
+            "20346294": {
+                "name": "MAGNUM_Q7",
+                "prebattleID": 0,
+                "igrType": 0,
+                "clanAbbrev": "-OFN-",
+                "team": 1,
+                "clanDBID": 555250,
+                "realName": "MAGNUM_Q7"
+            },
+            "8657721": {
+                "name": "vitek111982",
+                "prebattleID": 0,
+                "igrType": 0,
+                "clanAbbrev": "",
+                "team": 1,
+                "clanDBID": 0,
+                "realName": "vitek111982"
+            },
+            "2369731": {
+                "name": "Beliy80",
+                "prebattleID": 0,
+                "igrType": 0,
+                "clanAbbrev": "",
+                "team": 2,
+                "clanDBID": 0,
+                "realName": "Beliy80"
+            },
+            "41827396": {
+                "name": "aleks_bratchencko_10",
+                "prebattleID": 0,
+                "igrType": 0,
+                "clanAbbrev": "HEMA",
+                "team": 2,
+                "clanDBID": 523911,
+                "realName": "aleks_bratchencko_10"
+            },
+            "118809929": {
+                "name": "fint_Zlat87",
+                "prebattleID": 0,
+                "igrType": 0,
+                "clanAbbrev": "RCFK",
+                "team": 2,
+                "clanDBID": 521909,
+                "realName": "Near_Hrew"
+            },
+            "2967889": {
+                "name": "severodvinsk29",
+                "prebattleID": 0,
+                "igrType": 0,
+                "clanAbbrev": "-W-K-",
+                "team": 2,
+                "clanDBID": 88393,
+                "realName": "severodvinsk29"
+            },
+            "30104660": {
+                "name": "Evanvancorn",
+                "prebattleID": 0,
+                "igrType": 0,
+                "clanAbbrev": "",
+                "team": 1,
+                "clanDBID": 0,
+                "realName": "Evanvancorn"
+            },
+            "34448983": {
+                "name": "sfinks567",
+                "prebattleID": 0,
+                "igrType": 0,
+                "clanAbbrev": "1NASH",
+                "team": 2,
+                "clanDBID": 169905,
+                "realName": "sfinks567"
+            },
+            "1658584": {
+                "name": "PeMoHT_Ap6y3oB",
+                "prebattleID": 0,
+                "igrType": 0,
+                "clanAbbrev": "K_B-O",
+                "team": 1,
+                "clanDBID": 492030,
+                "realName": "PeMoHT_Ap6y3oB"
+            },
+            "1472860": {
+                "name": "makesha1",
+                "prebattleID": 0,
+                "igrType": 0,
+                "clanAbbrev": "",
+                "team": 1,
+                "clanDBID": 0,
+                "realName": "makesha1"
+            },
+            "25709405": {
+                "name": "222posol222",
+                "prebattleID": 0,
+                "igrType": 0,
+                "clanAbbrev": "KNG_O",
+                "team": 2,
+                "clanDBID": 34765,
+                "realName": "222posol222"
+            },
+            "22032863": {
+                "name": "Dyldin_I_I",
+                "prebattleID": 0,
+                "igrType": 0,
+                "clanAbbrev": "ANUND",
+                "team": 1,
+                "clanDBID": 163268,
+                "realName": "Dyldin_I_I"
+            },
+            "297572": {
+                "name": "rosomaxa84",
+                "prebattleID": 0,
+                "igrType": 0,
+                "clanAbbrev": "",
+                "team": 2,
+                "clanDBID": 0,
+                "realName": "rosomaxa84"
+            },
+            "67432": {
+                "name": "VonStein",
+                "prebattleID": 0,
+                "igrType": 0,
+                "clanAbbrev": "",
+                "team": 1,
+                "clanDBID": 0,
+                "realName": "VonStein"
+            },
+            "6298090": {
+                "name": "hendehoh82",
+                "prebattleID": 0,
+                "igrType": 0,
+                "clanAbbrev": "",
+                "team": 1,
+                "clanDBID": 0,
+                "realName": "hendehoh82"
+            },
+            "4134130": {
+                "name": "electrochenko",
+                "prebattleID": 0,
+                "igrType": 0,
+                "clanAbbrev": "",
+                "team": 2,
+                "clanDBID": 0,
+                "realName": "TT1980"
+            },
+            "6458259": {
+                "name": "29qwert948z",
+                "prebattleID": 0,
+                "igrType": 0,
+                "clanAbbrev": "KDENA",
+                "team": 1,
+                "clanDBID": 532305,
+                "realName": "5maz5"
+            },
+            "24501610": {
+                "name": "t_r_y_a_n_o_n",
+                "prebattleID": 0,
+                "igrType": 0,
+                "clanAbbrev": "",
+                "team": 2,
+                "clanDBID": 0,
+                "realName": "t_r_y_a_n_o_n"
+            },
+            "19925886": {
+                "name": "redfrossst1984",
+                "prebattleID": 0,
+                "igrType": 0,
+                "clanAbbrev": "GUYS7",
+                "team": 1,
+                "clanDBID": 469064,
+                "realName": "redfrossst1984"
+            }
+        },
+        "common": {
+            "division": null,
+            "finishReason": 1,
+            "guiType": 1,
+            "commonNumDefended": 0,
+            "commonNumCaptured": 0,
+            "commonNumStarted": 0,
+            "arenaCreateTime": 1618253085,
+            "commonNumDestroyed": 0,
+            "duration": 405,
+            "teamHealth": {
+                "1": 22180,
+                "2": 22610
+            },
+            "arenaTypeID": 1,
+            "gasAttackWinnerTeam": -1,
+            "winnerTeam": 2,
+            "vehLockMode": 0,
+            "bonusType": 1,
+            "bots": {},
+            "accountCompDescr": null
+        }
+    },
+    {
+        "10335941": {
+            "wtr": 0,
+            "vehicleType": "ussr:R183_K_91_PT",
+            "isAlive": false,
+            "personalMissionIDs": [],
+            "personalMissionInfo": {},
+            "forbidInBattleInvitations": true,
+            "fakeName": "brotherhood",
+            "maxHealth": 1600,
+            "igrType": 0,
+            "clanAbbrev": "L-S-I",
+            "ranked": [
+                3,
+                1
+            ],
+            "isTeamKiller": 0,
+            "team": 1,
+            "events": {},
+            "overriddenBadge": 0,
+            "avatarSessionID": "10335941",
+            "badges": [
+                [],
+                [
+                    100
+                ]
+            ],
+            "name": "brotherhood"
+        },
+        "10335942": {
+            "wtr": 0,
+            "vehicleType": "usa:A117_T26E5_Patriot",
+            "isAlive": false,
+            "personalMissionIDs": [],
+            "personalMissionInfo": {},
+            "forbidInBattleInvitations": true,
+            "fakeName": "xxGallxx",
+            "maxHealth": 1500,
+            "igrType": 0,
+            "clanAbbrev": "",
+            "ranked": [
+                5,
+                0
+            ],
+            "isTeamKiller": 0,
+            "team": 2,
+            "events": {},
+            "overriddenBadge": 0,
+            "avatarSessionID": "10335942",
+            "badges": [
+                [],
+                [
+                    35
+                ]
+            ],
+            "name": "xxGallxx"
+        },
+        "10335943": {
+            "wtr": 0,
+            "vehicleType": "uk:GB31_Conqueror_Gun",
+            "isAlive": false,
+            "personalMissionIDs": [],
+            "personalMissionInfo": {},
+            "forbidInBattleInvitations": false,
+            "fakeName": "said3535",
+            "maxHealth": 530,
+            "igrType": 0,
+            "clanAbbrev": "",
+            "ranked": [
+                0,
+                1
+            ],
+            "isTeamKiller": 0,
+            "team": 1,
+            "events": {},
+            "overriddenBadge": 0,
+            "avatarSessionID": "10335943",
+            "badges": [
+                [
+                    32
+                ],
+                [
+                    100
+                ]
+            ],
+            "name": "said3535"
+        },
+        "10335944": {
+            "wtr": 0,
+            "vehicleType": "usa:A67_T57_58",
+            "isAlive": false,
+            "personalMissionIDs": [],
+            "personalMissionInfo": {},
+            "forbidInBattleInvitations": false,
+            "fakeName": "serega_w_tanks63",
+            "maxHealth": 2430,
+            "igrType": 0,
+            "clanAbbrev": "",
+            "ranked": [
+                0,
+                0
+            ],
+            "isTeamKiller": 0,
+            "team": 2,
+            "events": {},
+            "overriddenBadge": 0,
+            "avatarSessionID": "10335944",
+            "badges": [
+                [
+                    100
+                ],
+                [
+                    42
+                ]
+            ],
+            "name": "serega_w_tanks63"
+        },
+        "10335945": {
+            "wtr": 0,
+            "vehicleType": "ussr:R149_Object_268_4",
+            "isAlive": false,
+            "personalMissionIDs": [],
+            "personalMissionInfo": {},
+            "forbidInBattleInvitations": false,
+            "fakeName": "Rustam07101919",
+            "maxHealth": 2000,
+            "igrType": 0,
+            "clanAbbrev": "",
+            "ranked": [
+                0,
+                0
+            ],
+            "isTeamKiller": 0,
+            "team": 2,
+            "events": {},
+            "overriddenBadge": 0,
+            "avatarSessionID": "10335945",
+            "badges": [
+                [
+                    10
+                ],
+                [
+                    40
+                ]
+            ],
+            "name": "Rustam07101919"
+        },
+        "10335946": {
+            "wtr": 0,
+            "vehicleType": "germany:G51_Lowe",
+            "isAlive": false,
+            "personalMissionIDs": [],
+            "personalMissionInfo": {},
+            "forbidInBattleInvitations": false,
+            "fakeName": "KLOP111P",
+            "maxHealth": 1650,
+            "igrType": 0,
+            "clanAbbrev": "",
+            "ranked": [
+                0,
+                0
+            ],
+            "isTeamKiller": 0,
+            "team": 1,
+            "events": {},
+            "overriddenBadge": 0,
+            "avatarSessionID": "10335946",
+            "badges": [
+                [],
+                [
+                    20
+                ]
+            ],
+            "name": "KLOP111P"
+        },
+        "10335947": {
+            "wtr": 0,
+            "vehicleType": "ussr:R20_T-44",
+            "isAlive": false,
+            "personalMissionIDs": [],
+            "personalMissionInfo": {},
+            "forbidInBattleInvitations": false,
+            "fakeName": "aleks_bratchencko_10",
+            "maxHealth": 1300,
+            "igrType": 0,
+            "clanAbbrev": "HEMA",
+            "ranked": [
+                0,
+                3
+            ],
+            "isTeamKiller": 0,
+            "team": 2,
+            "events": {},
+            "overriddenBadge": 0,
+            "avatarSessionID": "10335947",
+            "badges": [
+                [
+                    100
+                ],
+                [
+                    63
+                ]
+            ],
+            "name": "aleks_bratchencko_10"
+        },
+        "10335948": {
+            "wtr": 0,
+            "vehicleType": "france:F97_ELC_EVEN_90",
+            "isAlive": false,
+            "personalMissionIDs": [],
+            "personalMissionInfo": {},
+            "forbidInBattleInvitations": false,
+            "fakeName": "cereg_59",
+            "maxHealth": 900,
+            "igrType": 0,
+            "clanAbbrev": "",
+            "ranked": [
+                6,
+                2
+            ],
+            "isTeamKiller": 0,
+            "team": 1,
+            "events": {},
+            "overriddenBadge": 0,
+            "avatarSessionID": "10335948",
+            "badges": [
+                [
+                    78
+                ],
+                [
+                    64
+                ]
+            ],
+            "name": "cereg_59"
+        },
+        "10335949": {
+            "wtr": 0,
+            "vehicleType": "ussr:R53_Object_704",
+            "isAlive": 1,
+            "personalMissionIDs": [],
+            "personalMissionInfo": {},
+            "forbidInBattleInvitations": true,
+            "fakeName": "NHS_tnk",
+            "maxHealth": 1600,
+            "igrType": 0,
+            "clanAbbrev": "",
+            "ranked": [
+                0,
+                0
+            ],
+            "isTeamKiller": 0,
+            "team": 2,
+            "events": {},
+            "overriddenBadge": 0,
+            "avatarSessionID": "10335949",
+            "badges": [
+                [],
+                [
+                    27
+                ]
+            ],
+            "name": "NHS_tnk"
+        },
+        "10335950": {
+            "wtr": 0,
+            "vehicleType": "italy:It12_Prototipo_Standard_B",
+            "isAlive": 1,
+            "personalMissionIDs": [],
+            "personalMissionInfo": {},
+            "forbidInBattleInvitations": false,
+            "fakeName": "volf197201",
+            "maxHealth": 1700,
+            "igrType": 0,
+            "clanAbbrev": "",
+            "ranked": [
+                0,
+                0
+            ],
+            "isTeamKiller": 0,
+            "team": 2,
+            "events": {},
+            "overriddenBadge": 0,
+            "avatarSessionID": "10335950",
+            "badges": [
+                [],
+                [
+                    52
+                ]
+            ],
+            "name": "volf197201"
+        },
+        "10335951": {
+            "wtr": 0,
+            "vehicleType": "uk:GB101_FV1066_Senlac",
+            "isAlive": 1,
+            "personalMissionIDs": [],
+            "personalMissionInfo": {},
+            "forbidInBattleInvitations": true,
+            "fakeName": "Alexrb31",
+            "maxHealth": 1050,
+            "igrType": 0,
+            "clanAbbrev": "JARA_",
+            "ranked": [
+                3,
+                0
+            ],
+            "isTeamKiller": 0,
+            "team": 2,
+            "events": {},
+            "overriddenBadge": 0,
+            "avatarSessionID": "10335951",
+            "badges": [
+                [
+                    65
+                ],
+                [
+                    31
+                ]
+            ],
+            "name": "Alexrb31"
+        },
+        "10335952": {
+            "wtr": 0,
+            "vehicleType": "germany:G55_E-75",
+            "isAlive": false,
+            "personalMissionIDs": [],
+            "personalMissionInfo": {},
+            "forbidInBattleInvitations": false,
+            "fakeName": "MAGNUM_Q7",
+            "maxHealth": 2150,
+            "igrType": 0,
+            "clanAbbrev": "-OFN-",
+            "ranked": [
+                3,
+                1
+            ],
+            "isTeamKiller": 0,
+            "team": 1,
+            "events": {},
+            "overriddenBadge": 0,
+            "avatarSessionID": "10335952",
+            "badges": [
+                [
+                    86
+                ],
+                [
+                    18
+                ]
+            ],
+            "name": "MAGNUM_Q7"
+        },
+        "10335953": {
+            "wtr": 0,
+            "vehicleType": "uk:GB97_Chimera",
+            "isAlive": false,
+            "personalMissionIDs": [],
+            "personalMissionInfo": {},
+            "forbidInBattleInvitations": false,
+            "fakeName": "vitek111982",
+            "maxHealth": 1400,
+            "igrType": 0,
+            "clanAbbrev": "",
+            "ranked": [
+                8,
+                3
+            ],
+            "isTeamKiller": 0,
+            "team": 1,
+            "events": {},
+            "overriddenBadge": 0,
+            "avatarSessionID": "10335953",
+            "badges": [
+                [
+                    38
+                ],
+                [
+                    73
+                ]
+            ],
+            "name": "vitek111982"
+        },
+        "10335954": {
+            "wtr": 0,
+            "vehicleType": "usa:A89_T54E1",
+            "isAlive": false,
+            "personalMissionIDs": [],
+            "personalMissionInfo": {},
+            "forbidInBattleInvitations": false,
+            "fakeName": "Beliy80",
+            "maxHealth": 2000,
+            "igrType": 0,
+            "clanAbbrev": "",
+            "ranked": [
+                0,
+                0
+            ],
+            "isTeamKiller": 0,
+            "team": 2,
+            "events": {},
+            "overriddenBadge": 0,
+            "avatarSessionID": "10335954",
+            "badges": [
+                [
+                    12
+                ],
+                [
+                    19
+                ]
+            ],
+            "name": "Beliy80"
+        },
+        "10335955": {
+            "wtr": 0,
+            "vehicleType": "sweden:S17_EMIL_1952_E2",
+            "isAlive": false,
+            "personalMissionIDs": [],
+            "personalMissionInfo": {},
+            "forbidInBattleInvitations": false,
+            "fakeName": "joi19871",
+            "maxHealth": 1700,
+            "igrType": 0,
+            "clanAbbrev": "",
+            "ranked": [
+                0,
+                0
+            ],
+            "isTeamKiller": 0,
+            "team": 1,
+            "events": {},
+            "overriddenBadge": 0,
+            "avatarSessionID": "10335955",
+            "badges": [
+                [
+                    91
+                ],
+                [
+                    21
+                ]
+            ],
+            "name": "joi19871"
+        },
+        "10335956": {
+            "wtr": 0,
+            "vehicleType": "ussr:R158_LT_432",
+            "isAlive": 1,
+            "personalMissionIDs": [
+                89,
+                312
+            ],
+            "personalMissionInfo": {
+                "312": [
+                    0,
+                    0
+                ],
+                "89": [
+                    0,
+                    0
+                ]
+            },
+            "forbidInBattleInvitations": false,
+            "fakeName": "fint_Zlat87",
+            "maxHealth": 1100,
+            "igrType": 0,
+            "clanAbbrev": "RCFK",
+            "ranked": [
+                27,
+                2
+            ],
+            "isTeamKiller": 0,
+            "team": 2,
+            "events": {},
+            "overriddenBadge": 0,
+            "avatarSessionID": "10335956",
+            "badges": [
+                [],
+                [
+                    65
+                ]
+            ],
+            "name": "Near_Hrew"
+        },
+        "10335957": {
+            "wtr": 0,
+            "vehicleType": "ussr:R177_ISU_152K_BL10",
+            "isAlive": 1,
+            "personalMissionIDs": [],
+            "personalMissionInfo": {},
+            "forbidInBattleInvitations": false,
+            "fakeName": "severodvinsk29",
+            "maxHealth": 1200,
+            "igrType": 0,
+            "clanAbbrev": "-W-K-",
+            "ranked": [
+                0,
+                0
+            ],
+            "isTeamKiller": 0,
+            "team": 2,
+            "events": {},
+            "overriddenBadge": 0,
+            "avatarSessionID": "10335957",
+            "badges": [
+                [
+                    12
+                ],
+                [
+                    46
+                ]
+            ],
+            "name": "severodvinsk29"
+        },
+        "10335958": {
+            "wtr": 0,
+            "vehicleType": "usa:A68_T28_Prototype",
+            "isAlive": false,
+            "personalMissionIDs": [],
+            "personalMissionInfo": {},
+            "forbidInBattleInvitations": false,
+            "fakeName": "Evanvancorn",
+            "maxHealth": 1150,
+            "igrType": 0,
+            "clanAbbrev": "",
+            "ranked": [
+                0,
+                0
+            ],
+            "isTeamKiller": 0,
+            "team": 1,
+            "events": {},
+            "overriddenBadge": 0,
+            "avatarSessionID": "10335958",
+            "badges": [
+                [
+                    12
+                ],
+                [
+                    4
+                ]
+            ],
+            "name": "Evanvancorn"
+        },
+        "10335959": {
+            "wtr": 0,
+            "vehicleType": "uk:GB31_Conqueror_Gun",
+            "isAlive": 1,
+            "personalMissionIDs": [],
+            "personalMissionInfo": {},
+            "forbidInBattleInvitations": false,
+            "fakeName": "sfinks567",
+            "maxHealth": 530,
+            "igrType": 0,
+            "clanAbbrev": "1NASH",
+            "ranked": [
+                0,
+                0
+            ],
+            "isTeamKiller": 0,
+            "team": 2,
+            "events": {},
+            "overriddenBadge": 0,
+            "avatarSessionID": "10335959",
+            "badges": [
+                [],
+                [
+                    8
+                ]
+            ],
+            "name": "sfinks567"
+        },
+        "10335960": {
+            "wtr": 0,
+            "vehicleType": "china:Ch18_WZ-120",
+            "isAlive": false,
+            "personalMissionIDs": [],
+            "personalMissionInfo": {},
+            "forbidInBattleInvitations": false,
+            "fakeName": "PeMoHT_Ap6y3oB",
+            "maxHealth": 1750,
+            "igrType": 0,
+            "clanAbbrev": "K_B-O",
+            "ranked": [
+                1,
+                0
+            ],
+            "isTeamKiller": 0,
+            "team": 1,
+            "events": {},
+            "overriddenBadge": 0,
+            "avatarSessionID": "10335960",
+            "badges": [
+                [],
+                [
+                    43
+                ]
+            ],
+            "name": "PeMoHT_Ap6y3oB"
+        },
+        "10335961": {
+            "wtr": 0,
+            "vehicleType": "sweden:S27_UDES_16",
+            "isAlive": false,
+            "personalMissionIDs": [],
+            "personalMissionInfo": {},
+            "forbidInBattleInvitations": false,
+            "fakeName": "makesha1",
+            "maxHealth": 1650,
+            "igrType": 0,
+            "clanAbbrev": "",
+            "ranked": [
+                0,
+                0
+            ],
+            "isTeamKiller": 0,
+            "team": 1,
+            "events": {},
+            "overriddenBadge": 0,
+            "avatarSessionID": "10335961",
+            "badges": [
+                [],
+                [
+                    100
+                ]
+            ],
+            "name": "makesha1"
+        },
+        "10335962": {
+            "wtr": 0,
+            "vehicleType": "italy:It19_Progetto_C50_mod_66",
+            "isAlive": false,
+            "personalMissionIDs": [],
+            "personalMissionInfo": {},
+            "forbidInBattleInvitations": false,
+            "fakeName": "222posol222",
+            "maxHealth": 1850,
+            "igrType": 0,
+            "clanAbbrev": "KNG_O",
+            "ranked": [
+                0,
+                0
+            ],
+            "isTeamKiller": 0,
+            "team": 2,
+            "events": {},
+            "overriddenBadge": 0,
+            "avatarSessionID": "10335962",
+            "badges": [
+                [],
+                [
+                    53
+                ]
+            ],
+            "name": "222posol222"
+        },
+        "10335963": {
+            "wtr": 0,
+            "vehicleType": "ussr:R47_ISU-152",
+            "isAlive": false,
+            "personalMissionIDs": [],
+            "personalMissionInfo": {},
+            "forbidInBattleInvitations": true,
+            "fakeName": "Dyldin_I_I",
+            "maxHealth": 1200,
+            "igrType": 0,
+            "clanAbbrev": "ANUND",
+            "ranked": [
+                0,
+                0
+            ],
+            "isTeamKiller": 0,
+            "team": 1,
+            "events": {},
+            "overriddenBadge": 0,
+            "avatarSessionID": "10335963",
+            "badges": [
+                [],
+                [
+                    40
+                ]
+            ],
+            "name": "Dyldin_I_I"
+        },
+        "10335964": {
+            "wtr": 0,
+            "vehicleType": "usa:A13_T34_hvy",
+            "isAlive": 1,
+            "personalMissionIDs": [],
+            "personalMissionInfo": {},
+            "forbidInBattleInvitations": false,
+            "fakeName": "rosomaxa84",
+            "maxHealth": 1500,
+            "igrType": 0,
+            "clanAbbrev": "",
+            "ranked": [
+                0,
+                0
+            ],
+            "isTeamKiller": 0,
+            "team": 2,
+            "events": {},
+            "overriddenBadge": 0,
+            "avatarSessionID": "10335964",
+            "badges": [
+                [
+                    79
+                ],
+                [
+                    38
+                ]
+            ],
+            "name": "rosomaxa84"
+        },
+        "10335965": {
+            "wtr": 0,
+            "vehicleType": "italy:It15_Rinoceronte",
+            "isAlive": false,
+            "personalMissionIDs": [],
+            "personalMissionInfo": {},
+            "forbidInBattleInvitations": true,
+            "fakeName": "VonStein",
+            "maxHealth": 2000,
+            "igrType": 0,
+            "clanAbbrev": "",
+            "ranked": [
+                0,
+                0
+            ],
+            "isTeamKiller": 0,
+            "team": 1,
+            "events": {},
+            "overriddenBadge": 0,
+            "avatarSessionID": "10335965",
+            "badges": [
+                [
+                    59,
+                    57
+                ],
+                [
+                    24
+                ]
+            ],
+            "name": "VonStein"
+        },
+        "10335966": {
+            "wtr": 0,
+            "vehicleType": "usa:A97_M41_Bulldog",
+            "isAlive": false,
+            "personalMissionIDs": [],
+            "personalMissionInfo": {},
+            "forbidInBattleInvitations": false,
+            "fakeName": "hendehoh82",
+            "maxHealth": 1000,
+            "igrType": 0,
+            "clanAbbrev": "",
+            "ranked": [
+                0,
+                0
+            ],
+            "isTeamKiller": 0,
+            "team": 1,
+            "events": {},
+            "overriddenBadge": 0,
+            "avatarSessionID": "10335966",
+            "badges": [
+                [],
+                [
+                    26
+                ]
+            ],
+            "name": "hendehoh82"
+        },
+        "10335967": {
+            "wtr": 0,
+            "vehicleType": "ussr:R47_ISU-152",
+            "isAlive": 1,
+            "personalMissionIDs": [],
+            "personalMissionInfo": {},
+            "forbidInBattleInvitations": false,
+            "fakeName": "electrochenko",
+            "maxHealth": 1200,
+            "igrType": 0,
+            "clanAbbrev": "",
+            "ranked": [
+                0,
+                0
+            ],
+            "isTeamKiller": 0,
+            "team": 2,
+            "events": {},
+            "overriddenBadge": 0,
+            "avatarSessionID": "10335967",
+            "badges": [
+                [],
+                [
+                    41
+                ]
+            ],
+            "name": "electrochenko"
+        },
+        "10335968": {
+            "wtr": 0,
+            "vehicleType": "usa:A117_T26E5_Patriot",
+            "isAlive": false,
+            "personalMissionIDs": [],
+            "personalMissionInfo": {},
+            "forbidInBattleInvitations": false,
+            "fakeName": "29qwert948z",
+            "maxHealth": 1500,
+            "igrType": 0,
+            "clanAbbrev": "",
+            "ranked": [
+                0,
+                5
+            ],
+            "isTeamKiller": 0,
+            "team": 1,
+            "events": {},
+            "overriddenBadge": 0,
+            "avatarSessionID": "10335968",
+            "badges": [
+                [],
+                [
+                    18
+                ]
+            ],
+            "name": "29qwert948z"
+        },
+        "10335969": {
+            "wtr": 0,
+            "vehicleType": "ussr:R40_T-54",
+            "isAlive": false,
+            "personalMissionIDs": [],
+            "personalMissionInfo": {},
+            "forbidInBattleInvitations": false,
+            "fakeName": "t_r_y_a_n_o_n",
+            "maxHealth": 1650,
+            "igrType": 0,
+            "clanAbbrev": "",
+            "ranked": [
+                0,
+                0
+            ],
+            "isTeamKiller": 0,
+            "team": 2,
+            "events": {},
+            "overriddenBadge": 0,
+            "avatarSessionID": "10335969",
+            "badges": [
+                [
+                    10
+                ],
+                [
+                    16
+                ]
+            ],
+            "name": "t_r_y_a_n_o_n"
+        },
+        "10335970": {
+            "wtr": 0,
+            "vehicleType": "usa:A83_T110E4",
+            "isAlive": false,
+            "personalMissionIDs": [],
+            "personalMissionInfo": {},
+            "forbidInBattleInvitations": false,
+            "fakeName": "redfrossst1984",
+            "maxHealth": 2000,
+            "igrType": 0,
+            "clanAbbrev": "GUYS7",
+            "ranked": [
+                0,
+                1
+            ],
+            "isTeamKiller": 0,
+            "team": 1,
+            "events": {},
+            "overriddenBadge": 0,
+            "avatarSessionID": "10335970",
+            "badges": [
+                [
+                    13
+                ],
+                [
+                    37
+                ]
+            ],
+            "name": "redfrossst1984"
+        }
+    },
+    {
+        "10335941": {
+            "frags": 2
+        },
+        "10335942": {
+            "frags": 0
+        },
+        "10335943": {
+            "frags": 1
+        },
+        "10335944": {
+            "frags": 1
+        },
+        "10335945": {
+            "frags": 1
+        },
+        "10335946": {
+            "frags": 0
+        },
+        "10335947": {
+            "frags": 1
+        },
+        "10335948": {
+            "frags": 0
+        },
+        "10335949": {
+            "frags": 1
+        },
+        "10335950": {
+            "frags": 2
+        },
+        "10335951": {
+            "frags": 3
+        },
+        "10335952": {
+            "frags": 2
+        },
+        "10335953": {
+            "frags": 0
+        },
+        "10335954": {
+            "frags": 0
+        },
+        "10335955": {
+            "frags": 1
+        },
+        "10335956": {
+            "frags": 1
+        },
+        "10335957": {
+            "frags": 0
+        },
+        "10335958": {
+            "frags": 0
+        },
+        "10335959": {
+            "frags": 1
+        },
+        "10335960": {
+            "frags": 1
+        },
+        "10335961": {
+            "frags": 0
+        },
+        "10335962": {
+            "frags": 1
+        },
+        "10335963": {
+            "frags": 0
+        },
+        "10335964": {
+            "frags": 0
+        },
+        "10335965": {
+            "frags": 0
+        },
+        "10335966": {
+            "frags": 0
+        },
+        "10335967": {
+            "frags": 2
+        },
+        "10335968": {
+            "frags": 0
+        },
+        "10335969": {
+            "frags": 1
+        },
+        "10335970": {
+            "frags": 0
+        }
+    }
+]
