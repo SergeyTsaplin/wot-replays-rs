@@ -1,0 +1,16 @@
+[package]
+name = "wot-replays"
+version = "0.1.0"
+license = "MIT"
+authors = ["Sergey Tsaplin <me@sergeytsaplin.com>"]
+edition = "2018"
+repository = "https://github.com/SergeyTsaplin/wot-replays-rs"
+
+[dependencies]
+log = "0.4"
+byteorder = "1"
+serde_json = "1"
+serde = { version = "1.0", features = ["derive"] }
+serde-aux = "0.3"
+serde_repr = "0.1"
+chrono = "0.4"

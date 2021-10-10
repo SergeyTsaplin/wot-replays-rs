@@ -1,21 +1,30 @@
-# Parsing library for World Of Tanks replay files
+# Parsing library and CLI tool for World Of Tanks replay files
 
-The crate allows to load a metadata from `.wotreplay` files.
+The repository contains the library and CLI tool to load and parse metadata from `.wotreplay` files.
 
-## Usage examples
+## `wot-replays` CLI tool
 
-```rust
-use wot_replays;
+Sources: [wot-replays-cli](wot-replays-cli)
 
-fn main() {
-    let replay = wot_replays::read_and_parse_from_file(
-        "test_data/20210412_2144_ussr-R158_LT_432_01_karelia.wotreplay",
-    ).unwrap();
+The tool allows to load and output metadata (battle
+info and battle results). For example, the following command prints battle info from the
+`wot-replays-lib/test_data/20210412_2144_ussr-R158_LT_432_01_karelia.wotreplay` file in JSON-format:
 
-    println!("Server: {}", &replay.battle_info.server_name);
-    println!("Map: {}", &replay.battle_info.map_display_name);
-    println!("Battle started at: {}", &replay.battle_info.date_time);
-}
+```bash
+$ wot-replays parse -i \
+    wot-replays-lib/test_data/20210412_2144_ussr-R158_LT_432_01_karelia.wotreplay
 ```
 
-For more examples, see [examples](examples/) directory.
+You can combine the command with
+[`jq`](https://stedolan.github.io/jq/) to navigate thgrouh the JSON,
+for example the following script outputs the annonimaizer's fake name:
+
+```
+$ wot-replays parse -i \
+    wot-replays-lib/test_data/20210412_2144_ussr-R158_LT_432_01_karelia.wotreplay \
+    | jq '.playerName as $playerName | .vehicles[] | select(.name == $playerName) | .fakeName'
+```
+
+## `wot-replays` rust library
+
+Sources: [wot-replays-lib](wot-replays-lib)
