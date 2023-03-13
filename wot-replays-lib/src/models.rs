@@ -185,12 +185,12 @@ pub struct BattleInfo {
 pub struct AvatarResults {
     pub avatar_kills: u16,
     pub player_rank: u16,
-    pub base_points_diff: u32,
-    pub has_battle_pass: bool,
+    pub base_points_diff: Option<u32>,
+    pub has_battle_pass: Option<bool>,
     pub avatar_damaged: u16,
     pub total_damaged: u16,
     pub avatar_damage_dealt: u32,
-    pub sum_points: u32,
+    pub sum_points: Option<u32>,
     pub fairplay_violations: Vec<i32>,
     pub badges: Vec<Vec<u16>>,
 }
@@ -198,13 +198,13 @@ pub struct AvatarResults {
 #[derive(Serialize, Deserialize, Debug)]
 #[serde(rename_all = "camelCase")]
 pub struct PersonalAvatarResults {
-    pub base_points_diff: u32,
-    pub avatar_damage_dealt: u32,
+    pub base_points_diff: Option<u32>,
+    pub avatar_damage_dealt: Option<u32>,
     pub bpcoin_replay: Option<u32>,
     pub credits_replay: Option<u32>,
     #[serde(rename = "freeXPReplay")]
     pub free_xp_replay: Option<u32>,
-    pub sum_points: u32,
+    pub sum_points: Option<u32>,
     pub fairplay_violations: Vec<i32>,
     pub event_bpcoin: u32,
     pub badges: Vec<Vec<u16>>,
@@ -230,7 +230,7 @@ pub struct PersonalAvatarResults {
     pub avatar_damage_event_list: Option<serde_json::Value>,
     #[serde(rename = "PM2Progress")]
     pub pm2_progress: serde_json::Value,
-    pub has_battle_pass: bool,
+    pub has_battle_pass: Option<bool>,
     pub total_damaged: u16,
     pub gold_replay: Option<serde_json::Value>,
     pub event_crystal: u16,

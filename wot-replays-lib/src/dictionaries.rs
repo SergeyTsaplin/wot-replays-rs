@@ -10,6 +10,11 @@ pub enum FinishReason {
     TimeOut = 3,
     ArenaFailure = 4,
     Technical = 5,
+    WinPointsCap = 6,
+    WinPoints = 7,
+    AllyKilled = 8,
+    OwnVehicleDestroyed = 9,
+    DestroyedObjects = 10,
 }
 
 /// Contains possible vehicle death reasons
